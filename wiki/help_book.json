@@ -1,0 +1,69 @@
+{
+  "page1": "0 : 0 - Cover
+_
+Title: Help-book.
+Description: The Guide on how the manager menu works.
+By: SpiritXIV
+Version: v.1.0.0
+
+---------
+Chapters:
+1 - Intro | 0 segments
+2 - UI | - 3 segments",
+  "page2": "1 : 1 - Intro
+_
+This is the book that will tell you just about everything you need to know about the Koil Manager Menu!",
+  "page3": "2 : 2 - UI (Layout)
+_
+The layout, is as basic as it could get.
+You have on your left the buttons. Those buttons help you navigate through out the menu.
+ßClicking on them will change this containers contents.
+
+But below this text, you should see some buttons. Those buttons will flip through the pages of a \"book\".
+
+If you want to leave this menu, simply pressing escape (esc) will close it.
+Now that you have the basics down, use the buttons to go to the next page.",
+  "page4": "3 : 2 - UI (Book-Covers)
+_
+How Book Covers Works:
+Title: Name.
+Description: Text.
+By: Author
+Version: v.0.0.0
+
+---------
+Chapters:
+# - Name | 0 segments
+
+Titles: Well, its the title of that book.
+Description: A description for that book.
+By: The authors name of that book.
+Version: The version number of the book.
+Page-# : Chapter-# - Chapter-Name (Segment-Name) : version.#-of-Publishes.#-of-Full-Edits.#-of-Corrections
+(See next page for more info)
+
+Book Covers will always look like this.
+Some books will state that something will be different for it.
+That could be like the max visible amount (the bar you saw at the start), or if its one where its a step by step,
+where each page is a step on something.",
+  "page5": "4 : 2 - UI (Book-Listing)
+_
+How Book Listing Works:
+# : # - Name (Name)
+Page-# : Chapter-# - Chapter-Name (Segment-Name) : version.#-of-Publishes.#-of-Full-Edits.#-of-Corrections
+Page: Well clearly its the page number.
+Chapter: Also a well known thing, its the number of that chapter.
+Chapter-Name: The name of that chapter.
+Segment-Name: The name of that chapter's segment. Like a part name.
+Version numbers change once, and after an article needs to be edited or created
+Publishes - The amount of times a book was \"published\".
+The number for Publishes will also change is a large amount of additions or changers were made
+Full-Edits - The amount of times needed a large amount of edits on a page previously published.
+Corrections - The amount of corrections needed to be made. Small thins that didn't require much effort.
+Things like word correction, or adding commas, periods, and such all count.",
+  "page6": "0 : 0 - Closer
+_
+Bet you didnt think a help would be this simple. Well maybe you didnt.
+But in any case, that is all you need to know. I can guarantee more features are coming soon, just be patient as well it takes time.
+But in the mean time, enjoy the project!"
+}
