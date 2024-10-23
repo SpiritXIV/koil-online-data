@@ -1,4 +1,4 @@
 {
-  "online" : true,
-  "reason" : "Too many API requests!"
+  "online" : false,
+  "reason" : "This is just a test!"
 }
