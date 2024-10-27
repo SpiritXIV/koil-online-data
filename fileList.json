@@ -1,6 +1,6 @@
 [
     {
-        "path": "sys/test.txt",
+        "path": "sys",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/test.txt"
     }
 ]
