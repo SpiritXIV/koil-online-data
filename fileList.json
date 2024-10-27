@@ -1,26 +1,26 @@
 [
     {
-        "path": "sys/design/images/",
+        "path": "sys/design/images",
         "name": "loading_screen.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen.png"
     },
     {
-        "path": "sys/design/images/",
+        "path": "sys/design/images",
         "name": "loading_screen_halloween.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_halloween.png"
     },
     {
-        "path": "sys/design/images/",
+        "path": "sys/design/images",
         "name": "loading_screen_christmas.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_christmas.png"
     },
     {
-        "path": "sys/design/audio/",
+        "path": "sys/design/audio",
         "name": "title_screen_music_halloween.ogg",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_halloween.ogg"
     },
     {
-        "path": "sys/design/audio/",
+        "path": "sys/design/audio",
         "name": "title_screen_music_christmas.ogg",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_christmas.ogg"
     }
