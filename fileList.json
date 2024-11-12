@@ -23,5 +23,150 @@
         "path": "sys/design/audio",
         "name": "title_screen_music_christmas.ogg",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_christmas.ogg"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "audio.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/audio.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "code.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/code.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "code_book.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/code_book.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "fabric.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/fabric.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "file.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/file.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "folder.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/folder.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "forge.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/forge.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "fundraise.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/fundraise.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/icon.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "image.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/image.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "koil_message_toast.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_message_toast.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "koil_toasts.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_toasts.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "koil_api.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_api.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "koro.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koro.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "log.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/log.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "mcmeta.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/mcmeta.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "pause.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/pause.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "play.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/play.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "quilt.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/quilt.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "start_book.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/start_book.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "stop.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/stop.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "structure.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/structure.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "text.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/text.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "video.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/video.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "zip.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/zip.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "koil.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "koil_fundraise.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_fundraise.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "koil_mod_menu.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_mod_menu.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "koil_update.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_update.png"
     }
 ]
