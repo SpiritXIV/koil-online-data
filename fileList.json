@@ -168,5 +168,30 @@
         "path": "sys/design/images",
         "name": "koil_update.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_update.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "ignite_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/ignite_icon.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "milked_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/milked_icon.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "retromania_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/retromania_icon.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "shit_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/shit_icon.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "tdbtd_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/tdbtd_icon.png"
     }
 ]
