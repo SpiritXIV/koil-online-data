@@ -1,4 +1,5 @@
 {
-  "maintenance": true,
+  "version": "0.70.25-unfinished.12",
+  "maintenance": false,
   "maintenanceReason": "Working on file transfers."
 }
