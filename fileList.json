@@ -171,6 +171,11 @@
     },
     {
         "path": "sys/design/images",
+        "name": "analiea_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/analiea_icon.png"
+    },
+    {
+        "path": "sys/design/images",
         "name": "ignite_icon.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/ignite_icon.png"
     },
