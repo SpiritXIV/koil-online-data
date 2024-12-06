@@ -198,5 +198,25 @@
         "path": "sys/design/images",
         "name": "tdbtd_icon.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/tdbtd_icon.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "koil_message_toasts.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_message_toasts.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_text.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_text.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "mojang_mini_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/mojang_mini_icon.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "options_background_blank.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/options_background_blank.png"
     }
 ]
