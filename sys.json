@@ -1,6 +1,6 @@
 {
   "version": "0.70.24",
   "beta-version": "0.70.25-unfinished.13",
-  "maintenance": false,
-  "maintenanceReason": "Working on file transfers."
+  "maintenance": true,
+  "maintenanceReason": "Adding, a way to toggle beta versions!"
 }
