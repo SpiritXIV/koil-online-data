@@ -218,5 +218,15 @@
         "path": "sys/design/images",
         "name": "options_background_blank.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/options_background_blank.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "all_apps_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/all_apps_icon.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "app_icon_fallback.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/app_icon_fallback.png"
     }
 ]
