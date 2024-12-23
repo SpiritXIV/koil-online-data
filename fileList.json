@@ -243,5 +243,95 @@
         "path": "sys/design/images",
         "name": "app_icon_fallback.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/app_icon_fallback.png"
+    },
+    {
+        "path": "sys/applications/appStore",
+        "name": "appContent.json",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/appStore/appContent.json"
+    },
+    {
+        "path": "sys/applications/appStore",
+        "name": "appData.json",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/appStore/appData.json"
+    },
+    {
+        "path": "sys/applications/appStore",
+        "name": "appIcon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/appStore/appIcon.png"
+    },
+    {
+        "path": "sys/applications/browser",
+        "name": "appContent.json",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/browser/appContent.json"
+    },
+    {
+        "path": "sys/applications/browser",
+        "name": "appData.json",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/browser/appData.json"
+    },
+    {
+        "path": "sys/applications/browser",
+        "name": "appIcon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/browser/appIcon.png"
+    },
+    {
+        "path": "sys/applications/calculator",
+        "name": "appContent.json",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/calculator/appContent.json"
+    },
+    {
+        "path": "sys/applications/calculator",
+        "name": "appData.json",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/calculator/appData.json"
+    },
+    {
+        "path": "sys/applications/calculator",
+        "name": "appIcon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/calculator/appIcon.png"
+    },
+    {
+        "path": "sys/applications/calendar",
+        "name": "appContent.json",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/calendar/appContent.json"
+    },
+    {
+        "path": "sys/applications/calendar",
+        "name": "appData.json",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/calendar/appData.json"
+    },
+    {
+        "path": "sys/applications/calendar",
+        "name": "appIcon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/calendar/appIcon.png"
+    },
+    {
+        "path": "sys/applications/clock",
+        "name": "appContent.json",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/clock/appContent.json"
+    },
+    {
+        "path": "sys/applications/clock",
+        "name": "appData.json",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/clock/appData.json"
+    },
+    {
+        "path": "sys/applications/clock",
+        "name": "appIcon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/clock/appIcon.png"
+    },
+    {
+        "path": "sys/applications/music",
+        "name": "appContent.json",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/music/appContent.json"
+    },
+    {
+        "path": "sys/applications/music",
+        "name": "appData.json",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/music/appData.json"
+    },
+    {
+        "path": "sys/applications/music",
+        "name": "appIcon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/applications/music/appIcon.png"
     }
 ]
