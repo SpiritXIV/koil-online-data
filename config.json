@@ -1,6 +1,6 @@
 {
   "debug": false,
   "beta": false,
-  "design_music": true,
-  "dark_mode": false
+  "darkMode": false,
+  "designMusic": true
 }
