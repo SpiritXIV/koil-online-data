@@ -1,6 +1,6 @@
 {
   "current": 0,
   "goal": 100,
-  "next_goal": 1000,
-  "waypoint_count": 4
+  "nextGoal": 1000,
+  "waypointCount": 4
 }
