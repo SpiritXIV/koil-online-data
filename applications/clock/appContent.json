@@ -1,0 +1,59 @@
+{
+    "layers": {
+        "0": [
+            {
+                "type": "clock_face",
+                "x": 80,
+                "y": 80
+            },
+            {
+                "type": "clock_display",
+                "x": 58,
+                "y": 160,
+                "color": "#FFFFFF",
+                "shadow": true,
+                "format": "hh:mm:ss a"
+            },
+            {
+                "type": "time_info",
+                "x": 64,
+                "y": 180,
+                "color": "#FFD700",
+                "shadow": true,
+                "info": [
+                    "Hour: {current_hour}",
+                    "Minute: {current_minute}",
+                    "Second: {current_second}"
+                ]
+            },
+            {
+                "type": "text_field",
+                "id": "alarm_input",
+                "x": 50,
+                "y": 220,
+                "width": 100,
+                "height": 20,
+                "placeholder": "hh:mm a"
+            },
+            {
+                "type": "text_field",
+                "id": "day_input",
+                "x": 50,
+                "y": 250,
+                "width": 150,
+                "height": 20,
+                "placeholder": "Days (Mon,Tue...)"
+            },
+            {
+                "type": "button",
+                "id": "set_alarm_button",
+                "x": 160,
+                "y": 280,
+                "width": 80,
+                "height": 20,
+                "label": "Set Alarm",
+                "action": "set_alarm"
+            }
+        ]
+    }
+}

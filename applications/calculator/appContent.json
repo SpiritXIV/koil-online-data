@@ -1,0 +1,30 @@
+{
+  "layers": {
+    "0": [
+      {
+        "type": "calc_input",
+        "label": "7",
+        "x": 10,
+        "y": 50
+      },
+      {
+        "type": "calc_input",
+        "label": "+",
+        "x": 50,
+        "y": 50
+      },
+      {
+        "type": "calc_evaluate",
+        "label": "=",
+        "x": 90,
+        "y": 50
+      },
+      {
+        "type": "calc_clear",
+        "label": "C",
+        "x": 130,
+        "y": 50
+      }
+    ]
+  }
+}
