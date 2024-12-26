@@ -1,6 +1,6 @@
 {
-  "version": "0.70.24",
-  "betaVersion": "0.70.25-unfinished.15",
+  "version": "0.70.25",
+  "betaVersion": "0.70.26-unfinished.1",
   "maintenance": false,
   "maintenanceReason": "Server File Management!"
 }
