@@ -191,6 +191,11 @@
     },
     {
         "path": "sys/design/images",
+        "name": "bordered_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/bordered_icon.png"
+    },
+    {
+        "path": "sys/design/images",
         "name": "ignite_icon.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/ignite_icon.png"
     },
