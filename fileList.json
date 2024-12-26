@@ -247,91 +247,91 @@
     {
         "path": "sys/applications/appStore",
         "name": "appContent.json",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/appStore/appContent.json"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/appStore/appContent.json"
     },
     {
         "path": "sys/applications/appStore",
         "name": "appData.json",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/appStore/appData.json"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/appStore/appData.json"
     },
     {
         "path": "sys/applications/appStore",
         "name": "appIcon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/appStore/appIcon.png"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/appStore/appIcon.png"
     },
     {
         "path": "sys/applications/browser",
         "name": "appContent.json",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/browser/appContent.json"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/browser/appContent.json"
     },
     {
         "path": "sys/applications/browser",
         "name": "appData.json",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/browser/appData.json"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/browser/appData.json"
     },
     {
         "path": "sys/applications/browser",
         "name": "appIcon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/browser/appIcon.png"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/browser/appIcon.png"
     },
     {
         "path": "sys/applications/calculator",
         "name": "appContent.json",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/calculator/appContent.json"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/calculator/appContent.json"
     },
     {
         "path": "sys/applications/calculator",
         "name": "appData.json",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/calculator/appData.json"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/calculator/appData.json"
     },
     {
         "path": "sys/applications/calculator",
         "name": "appIcon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/calculator/appIcon.png"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/calculator/appIcon.png"
     },
     {
         "path": "sys/applications/calendar",
         "name": "appContent.json",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/calendar/appContent.json"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/calendar/appContent.json"
     },
     {
         "path": "sys/applications/calendar",
         "name": "appData.json",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/calendar/appData.json"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/calendar/appData.json"
     },
     {
         "path": "sys/applications/calendar",
         "name": "appIcon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/calendar/appIcon.png"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/calendar/appIcon.png"
     },
     {
         "path": "sys/applications/clock",
         "name": "appContent.json",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/clock/appContent.json"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/clock/appContent.json"
     },
     {
         "path": "sys/applications/clock",
         "name": "appData.json",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/clock/appData.json"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/clock/appData.json"
     },
     {
         "path": "sys/applications/clock",
         "name": "appIcon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/clock/appIcon.png"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/clock/appIcon.png"
     },
     {
         "path": "sys/applications/music",
         "name": "appContent.json",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/music/appContent.json"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/music/appContent.json"
     },
     {
         "path": "sys/applications/music",
         "name": "appData.json",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/music/appData.json"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/music/appData.json"
     },
     {
         "path": "sys/applications/music",
         "name": "appIcon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/sys/applications/music/appIcon.png"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/music/appIcon.png"
     }
 ]
