@@ -11,6 +11,11 @@
     },
     {
         "path": "sys/design/images",
+        "name": "loading_screen_split.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_split.png"
+    },
+    {
+        "path": "sys/design/images",
         "name": "loading_screen_halloween.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_halloween.png"
     },
