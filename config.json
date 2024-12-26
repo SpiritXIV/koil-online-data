@@ -2,6 +2,7 @@
   "debug": false,
   "beta": false,
   "darkMode": false,
+  "splitMode": false,
   "designMusic": true,
   "holidayDesign": true,
   "holidayDesignMusic": true
