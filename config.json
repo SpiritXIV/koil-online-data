@@ -1,9 +1,9 @@
 {
   "debug": false,
   "beta": false,
-  "darkMode": false,
-  "splitMode": false,
-  "designMusic": true,
+  "background": "",
+  "backgroundMusic": "",
+  "design": true,
   "holidayDesign": true,
   "holidayDesignMusic": true
 }
