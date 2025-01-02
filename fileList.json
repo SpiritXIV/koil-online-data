@@ -6,7 +6,7 @@
     },
     {
         "path": "sys/design/images",
-        "name": "loading_screen_dark.png",
+        "name": "loading_screen_night.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_dark.png"
     },
     {
@@ -31,7 +31,12 @@
     },
     {
         "path": "sys/design/audio",
-        "name": "title_screen_music_dark.ogg",
+        "name": "title_screen_music_night.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_dark.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_split.ogg",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_dark.ogg"
     },
     {
