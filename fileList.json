@@ -6,6 +6,11 @@
     },
     {
         "path": "sys/design/images",
+        "name": "loading_screen_template.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_template.png"
+    },
+    {
+        "path": "sys/design/images",
         "name": "loading_screen_night.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_night.png"
     },
