@@ -6,11 +6,6 @@
     },
     {
         "path": "sys/design/images",
-        "name": "loading_screen_template.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_template.png"
-    },
-    {
-        "path": "sys/design/images",
         "name": "loading_screen_night.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_night.png"
     },
@@ -398,5 +393,10 @@
         "path": "sys/applications/music",
         "name": "appIcon.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/applications/music/appIcon.png"
-    }
+    },
+    {
+        "path": "sys/design/images",
+        "name": "empty_tile.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/empty_tile.png"
+    },
 ]
