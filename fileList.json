@@ -7,7 +7,7 @@
     {
         "path": "sys/design/images",
         "name": "loading_screen_night.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_dark.png"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_night.png"
     },
     {
         "path": "sys/design/images",
@@ -17,7 +17,7 @@
     {
         "path": "sys/design/images",
         "name": "loading_screen_ignite.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_halloween.png"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ignite.png"
     },
     {
         "path": "sys/design/images",
@@ -37,22 +37,27 @@
     {
         "path": "sys/design/audio",
         "name": "title_screen_music_night.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_dark.ogg"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_night.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_midnight.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_midnight.ogg"
     },
     {
         "path": "sys/design/audio",
         "name": "title_screen_music_split.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_dark.ogg"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_split.ogg"
     },
     {
         "path": "sys/design/audio",
         "name": "title_screen_music_analiea.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_halloween.ogg"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_analiea.ogg"
     },
     {
         "path": "sys/design/audio",
         "name": "title_screen_music_ignite.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_halloween.ogg"
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_ignite.ogg"
     },
     {
         "path": "sys/design/audio",
@@ -63,6 +68,21 @@
         "path": "sys/design/audio",
         "name": "title_screen_music_christmas.ogg",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_christmas.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "v.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_coma.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_maze_1.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_1.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_maze_1_background.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_1_background.ogg"
     },
     {
         "path": "sys/design/images",
