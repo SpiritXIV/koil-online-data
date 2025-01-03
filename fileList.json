@@ -21,6 +21,16 @@
     },
     {
         "path": "sys/design/images",
+        "name": "loading_screen_analiea.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_analiea.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_clean_cut.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_clean_cut.png"
+    },
+    {
+        "path": "sys/design/images",
         "name": "loading_screen_halloween.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_halloween.png"
     },
