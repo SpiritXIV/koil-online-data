@@ -1,0 +1,44 @@
+{
+  "loadingScreenMappings": [
+    {
+      "tags": ["halloween"],
+      "fileSuffix": "_halloween",
+      "holidayCheck": true,
+      "month": 10
+    },
+    {
+      "tags": ["christmas"],
+      "fileSuffix": "_christmas",
+      "holidayCheck": true,
+      "month": 12
+    },
+    {
+      "tags": ["ignite"],
+      "fileSuffix": "_ignite"
+    },
+    {
+      "tags": ["analiea"],
+      "fileSuffix": "_analiea"
+    },
+    {
+      "tags": ["clean cut", "clean_cut"],
+      "fileSuffix": "_clean_cut"
+    },
+    {
+      "tags": ["split", "inpart", "in part", "in_part"],
+      "fileSuffix": "_split"
+    },
+    {
+      "tags": ["day"],
+      "fileSuffix": "_day"
+    },
+    {
+      "tags": ["night"],
+      "fileSuffix": "_night"
+    },
+    {
+      "tags": ["deepslate"],
+      "fileSuffix": "_deepslate"
+    }
+  ]
+}
