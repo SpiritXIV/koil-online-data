@@ -2,5 +2,7 @@
   "version": "0.70.25",
   "betaVersion": "0.70.26-unfinished.1",
   "maintenance": false,
-  "maintenanceReason": "Server File Management!"
+  "maintenanceReason": "Server File Management!",
+  "announcement": true,
+  "announcementReason": "Hello There!"
 }
