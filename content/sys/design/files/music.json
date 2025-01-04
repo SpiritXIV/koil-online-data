@@ -1,0 +1,70 @@
+{
+  "backgroundMusic": [
+    {
+      "tags": ["halloween", "weak bone", "weak_bone"],
+      "fileSuffix": "_halloween.ogg",
+      "title": "Weak Bone (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["christmas", "sowel steps", "sowel_steps"],
+      "fileSuffix": "_christmas.ogg",
+      "title": "Sowel Steps (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["ignite", "post stress reordered", "post_stress_reordered"],
+      "fileSuffix": "_ignite.ogg",
+      "title": "Post Stress Reordered",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["analiea"],
+      "fileSuffix": "_analiea.ogg",
+      "title": "Analiea (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["split", "inpart", "in part", "in_part"],
+      "fileSuffix": "_split.ogg",
+      "title": "In Part (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["day"],
+      "fileSuffix": ".ogg",
+      "title": "Day (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["night"],
+      "fileSuffix": "_night.ogg",
+      "title": "Night (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["midnight"],
+      "fileSuffix": "_midnight.ogg",
+      "title": "Midnight (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["coma"],
+      "fileSuffix": "_coma.ogg",
+      "title": "Coma (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["maze_1", "maze 1"],
+      "fileSuffix": "_maze_1.ogg",
+      "title": "Maze Level 1 (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["maze_1_background", "maze 1 background"],
+      "fileSuffix": "_maze_1_background.ogg",
+      "title": "Maze Level 1 Background (unreleased)",
+      "artist": "Bashful"
+    }
+  ]
+}
