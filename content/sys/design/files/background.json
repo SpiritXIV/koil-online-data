@@ -1,5 +1,5 @@
 {
-  "loadingScreenMappings": [
+  "background": [
     {
       "tags": ["halloween"],
       "fileSuffix": "_halloween",
