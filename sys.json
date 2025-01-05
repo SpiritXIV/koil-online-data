@@ -3,6 +3,6 @@
   "betaVersion": "0.70.26-unfinished.1",
   "maintenance": false,
   "maintenanceReason": "Server File Management!",
-  "announcement": true,
+  "announcement": false,
   "announcementReason": "Hello There!"
 }
