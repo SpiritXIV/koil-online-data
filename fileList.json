@@ -11,6 +11,71 @@
     },
     {
         "path": "sys/design/images",
+        "name": "loading_screen_beach.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_beach.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_birch_forest.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_birch_forest.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_cherry_blossom.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_cherry_blossom.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_copper_shaft.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_copper_shaft.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_mangrove.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_mangrove.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_mineshaft.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_mineshaft.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_mountain.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_mountain.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_ocean_day_boat.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_day_boat.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_ocean_night_boat.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_night_boat.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_ocean_night.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_night.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_snowy_slope.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_snowy_slope.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_swamp.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_swamp.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_underwater.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_underwater.png"
+    },
+    {
+        "path": "sys/design/images",
         "name": "loading_screen_split.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_split.png"
     },
