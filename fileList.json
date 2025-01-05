@@ -95,6 +95,46 @@
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_1_background.ogg"
     },
     {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_maze_2.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_2.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_maze_2_background.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_2_background.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_maze_3.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_3.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_maze_3_background.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_3_background.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_maze_4.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_4.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_maze_4_background.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_4_background.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_maze_5.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_5.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_maze_5_background.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_5_background.ogg"
+    },
+    {
         "path": "sys/design/images",
         "name": "audio.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/audio.png"
