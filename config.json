@@ -1,8 +1,8 @@
 {
   "debug": false,
   "beta": false,
-  "background": "day",
-  "backgroundMusic": "day",
+  "background": "",
+  "backgroundMusic": "",
   "musicVolumeReduction": 1,
   "design": true,
   "holidayDesign": true,
