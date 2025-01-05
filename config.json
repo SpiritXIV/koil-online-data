@@ -3,7 +3,7 @@
   "beta": false,
   "background": "",
   "backgroundMusic": "",
-  "musicVolumeReduction": 1,
+  "musicVolume": 0,
   "design": true,
   "holidayDesign": true,
   "holidayDesignMusic": true
