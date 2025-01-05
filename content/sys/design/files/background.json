@@ -49,6 +49,10 @@
       "fileSuffix": "_copper_shaft"
     },
     {
+      "tags": ["desert"],
+      "fileSuffix": "_desert"
+    },
+    {
       "tags": ["mangrove", "mangrove swamp", "mangrove_swamp"],
       "fileSuffix": "_mangrove"
     },
@@ -73,12 +77,20 @@
       "fileSuffix": "_ocean_night"
     },
     {
+      "tags": ["savanna"],
+      "fileSuffix": "_savanna"
+    },
+    {
       "tags": ["snowy slope", "snowy_slope"],
       "fileSuffix": "_snowy_slope"
     },
     {
       "tags": ["swamp"],
       "fileSuffix": "_swamp"
+    },
+    {
+      "tags": ["taiga"],
+      "fileSuffix": "_taiga"
     },
     {
       "tags": ["underwater"],
