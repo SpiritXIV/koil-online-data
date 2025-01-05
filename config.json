@@ -4,7 +4,7 @@
   "background": "",
   "backgroundMusic": "",
   "musicVolume": -10,
-  "design": true,
+  "designMusic": true,
   "holidayDesign": true,
   "holidayDesignMusic": true
 }
