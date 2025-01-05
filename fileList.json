@@ -61,6 +61,11 @@
     },
     {
         "path": "sys/design/images",
+        "name": "loading_screen_ocean_split_boat.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_split_boat.png"
+    },
+    {
+        "path": "sys/design/images",
         "name": "loading_screen_ocean_night.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_night.png"
     },
