@@ -65,6 +65,54 @@
       "fileSuffix": "_maze_1_background.ogg",
       "title": "Maze Level 1 Background (unreleased)",
       "artist": "Bashful"
-    }
+    },
+    {
+      "tags": ["maze_2", "maze 2"],
+      "fileSuffix": "_maze_2.ogg",
+      "title": "Maze Level 2 (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["maze_2_background", "maze 2 background"],
+      "fileSuffix": "_maze_2_background.ogg",
+      "title": "Maze Level 2 Background (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["maze_3", "maze 3"],
+      "fileSuffix": "_maze_3.ogg",
+      "title": "Maze Level 3 (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["maze_3_background", "maze 33 background"],
+      "fileSuffix": "_maze_3_background.ogg",
+      "title": "Maze Level 3 Background (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["maze_4", "maze 4"],
+      "fileSuffix": "_maze_4.ogg",
+      "title": "Maze Level 4 (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["maze_4_background", "maze 4 background"],
+      "fileSuffix": "_maze_4_background.ogg",
+      "title": "Maze Level 4 Background (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["maze_5", "maze 5"],
+      "fileSuffix": "_maze_5.ogg",
+      "title": "Maze Level 5 (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["maze_5_background", "maze 5 background"],
+      "fileSuffix": "_maze_5_background.ogg",
+      "title": "Maze Level 5 Background (unreleased)",
+      "artist": "Bashful"
+    },
   ]
 }
