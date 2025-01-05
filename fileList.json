@@ -31,6 +31,11 @@
     },
     {
         "path": "sys/design/images",
+        "name": "loading_screen_desert.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_desert.png"
+    },
+    {
+        "path": "sys/design/images",
         "name": "loading_screen_mangrove.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_mangrove.png"
     },
@@ -61,6 +66,11 @@
     },
     {
         "path": "sys/design/images",
+        "name": "loading_screen_savanna.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_savanna.png"
+    },
+    {
+        "path": "sys/design/images",
         "name": "loading_screen_snowy_slope.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_snowy_slope.png"
     },
@@ -68,6 +78,11 @@
         "path": "sys/design/images",
         "name": "loading_screen_swamp.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_swamp.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "loading_screen_taiga.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_taiga.png"
     },
     {
         "path": "sys/design/images",
