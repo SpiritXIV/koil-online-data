@@ -21,10 +21,6 @@
       "fileSuffix": "_analiea"
     },
     {
-      "tags": ["clean cut", "clean_cut"],
-      "fileSuffix": "_clean_cut"
-    },
-    {
       "tags": ["split", "inpart", "in part", "in_part"],
       "fileSuffix": "_split"
     },
@@ -37,8 +33,56 @@
       "fileSuffix": "_night"
     },
     {
-      "tags": ["deepslate"],
-      "fileSuffix": "_deepslate"
+      "tags": ["beach"],
+      "fileSuffix": "_beach"
+    },
+    {
+      "tags": ["birch forest", "birch_forest"],
+      "fileSuffix": "_birch_forest"
+    },
+    {
+      "tags": ["cherry blossom", "cherry_blossom"],
+      "fileSuffix": "_cherry_blossom"
+    },
+    {
+      "tags": ["copper shaft", "copper_shaft"],
+      "fileSuffix": "_copper_shaft"
+    },
+    {
+      "tags": ["mangrove", "mangrove swamp", "mangrove_swamp"],
+      "fileSuffix": "_mangrove"
+    },
+    {
+      "tags": ["mineshaft"],
+      "fileSuffix": "_ mineshaft"
+    },
+    {
+      "tags": ["mountain"],
+      "fileSuffix": "_mountain"
+    },
+    {
+      "tags": ["ocean day boat", "ocean_day_boat", "ocean boat day", "ocean_boat_day", "boat day", "boat_day"],
+      "fileSuffix": "_ocean_day_boat"
+    },
+    {
+      "tags": ["ocean night boat", "ocean_night_boat", "ocean boat night", "ocean_boat_night", "boat_night", "boat night"],
+      "fileSuffix": "_ocean_night_boat"
+    },
+    {
+      "tags": ["ocean night", "ocean_night"],
+      "fileSuffix": "_ocean_night"
+    },
+    {
+      "tags": ["snowy slope", "snowy_slope"],
+      "fileSuffix": "_snowy_slope"
+    },
+    {
+      "tags": ["swamp"],
+      "fileSuffix": "_swamp"
+    },
+    {
+      "tags": ["underwater"],
+      "fileSuffix": "_underwater"
     }
   ]
 }
