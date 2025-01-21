@@ -161,6 +161,16 @@
     },
     {
         "path": "sys/design/audio",
+        "name": "title_screen_music_frozen_christmas.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_frozen_christmas.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_sowel_steps.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_sowel_steps.ogg"
+    },
+    {
+        "path": "sys/design/audio",
         "name": "title_screen_music_coma.ogg",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_coma.ogg"
     },
