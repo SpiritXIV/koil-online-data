@@ -11,10 +11,16 @@
     {
       "tags": ["christmas", "lost christmas", "lost_christmas"],
       "fileSuffix": "_christmas.ogg",
-      "title": "Lost CHristmas (unreleased)",
+      "title": "Lost Christmas (unreleased)",
       "artist": "Bashful"
       "month": 12,
       "holidayCheck": true
+    },
+    {
+      "tags": ["frozen christmas", "frozen_christmas"],
+      "fileSuffix": "frozen__christmas.ogg",
+      "title": "Frozen Christmas (unreleased)",
+      "artist": "Bashful"
     },
     {
       "tags": ["sowel steps", "sowel_steps"],
