@@ -7,8 +7,14 @@
       "artist": "Bashful"
     },
     {
-      "tags": ["christmas", "sowel steps", "sowel_steps"],
+      "tags": ["christmas", "lost christmas", "lost_christmas"],
       "fileSuffix": "_christmas.ogg",
+      "title": "Lost CHristmas (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["sowel steps", "sowel_steps"],
+      "fileSuffix": "_sowel_steps.ogg",
       "title": "Sowel Steps (unreleased)",
       "artist": "Bashful"
     },
