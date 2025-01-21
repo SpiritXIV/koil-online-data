@@ -4,7 +4,7 @@
       "tags": ["halloween", "weak bone", "weak_bone"],
       "fileSuffix": "_halloween.ogg",
       "title": "Weak Bone (unreleased)",
-      "artist": "Bashful"
+      "artist": "Bashful",
       "month": 10,
       "holidayCheck": true
     },
@@ -12,7 +12,7 @@
       "tags": ["christmas", "lost christmas", "lost_christmas"],
       "fileSuffix": "_christmas.ogg",
       "title": "Lost Christmas (unreleased)",
-      "artist": "Bashful"
+      "artist": "Bashful",
       "month": 12,
       "holidayCheck": true
     },
@@ -26,7 +26,7 @@
       "tags": ["sowel steps", "sowel_steps"],
       "fileSuffix": "_sowel_steps.ogg",
       "title": "Sowel Steps (unreleased)",
-      "artist": "Bashful"
+      "artist": "Bashful",
       "month": 1,
       "holidayCheck": true
     },
