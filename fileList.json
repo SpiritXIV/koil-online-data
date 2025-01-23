@@ -151,6 +151,11 @@
     },
     {
         "path": "sys/design/audio",
+        "name": "title_screen_music_analiea.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_analiea.ogg"
+    },
+    {
+        "path": "sys/design/audio",
         "name": "title_screen_music_halloween.ogg",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_halloween.ogg"
     },
@@ -223,6 +228,31 @@
         "path": "sys/design/audio",
         "name": "title_screen_music_maze_5_background.ogg",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_5_background.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_recrelation.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_recrelation.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_the_adversary_of_finality.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_the_adversary_of_finality.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_apex.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_apex.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_apex.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_apex.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_maze_plunderer.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_maze_plunderer.ogg"
     },
     {
         "path": "sys/design/images",
