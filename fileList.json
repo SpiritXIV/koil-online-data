@@ -255,6 +255,26 @@
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_maze_plunderer.ogg"
     },
     {
+        "path": "sys/design/audio",
+        "name": "title_screen_dotted_iris.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_dotted_iris.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_turnover.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_turnover.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_stand_off.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_stand_off.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_watchtower.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_watchtower.ogg"
+    },
+    {
         "path": "sys/design/images",
         "name": "audio.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/audio.png"
