@@ -131,6 +131,60 @@
       "fileSuffix": "_maze_5_background.ogg",
       "title": "Maze Level 5 Background (unreleased)",
       "artist": "Bashful"
+    },
+    {
+      "tags": ["recrelation"],
+      "fileSuffix": "_recrelation.ogg",
+      "title": "Recrelation (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["the adversary of finality", "the_adversary_of_finality"],
+      "fileSuffix": "_the_adversary_of_finality.ogg",
+      "title": "The Adversary of Finality (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["apex"],
+      "fileSuffix": "_apex.ogg",
+      "title": "Apex (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["maze plunderer", "maze_plunderer"],
+      "fileSuffix": "_maze_plunderer.ogg",
+      "title": "Maze Plunderer (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["", ""],
+      "fileSuffix": "_.ogg",
+      "title": " (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["", ""],
+      "fileSuffix": "_.ogg",
+      "title": " (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["", ""],
+      "fileSuffix": "_.ogg",
+      "title": " (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["", ""],
+      "fileSuffix": "_.ogg",
+      "title": " (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["", ""],
+      "fileSuffix": "_.ogg",
+      "title": " (unreleased)",
+      "artist": "Bashful"
     }
   ]
 }
