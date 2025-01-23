@@ -157,33 +157,27 @@
       "artist": "Bashful"
     },
     {
-      "tags": ["", ""],
-      "fileSuffix": "_.ogg",
-      "title": " (unreleased)",
+      "tags": ["dotted iris", "dotted_iris"],
+      "fileSuffix": "dotted_iris_.ogg",
+      "title": "Dotted Iris (unreleased)",
       "artist": "Bashful"
     },
     {
-      "tags": ["", ""],
-      "fileSuffix": "_.ogg",
-      "title": " (unreleased)",
+      "tags": ["Turnover"],
+      "fileSuffix": "_turnover.ogg",
+      "title": "Turnover",
       "artist": "Bashful"
     },
     {
-      "tags": ["", ""],
-      "fileSuffix": "_.ogg",
-      "title": " (unreleased)",
+      "tags": ["stand off", "stand_off"],
+      "fileSuffix": "_stand_off.ogg",
+      "title": "Stand Off",
       "artist": "Bashful"
     },
     {
-      "tags": ["", ""],
-      "fileSuffix": "_.ogg",
-      "title": " (unreleased)",
-      "artist": "Bashful"
-    },
-    {
-      "tags": ["", ""],
-      "fileSuffix": "_.ogg",
-      "title": " (unreleased)",
+      "tags": ["watchtower"],
+      "fileSuffix": "_watchtower.ogg",
+      "title": "Watchtower",
       "artist": "Bashful"
     }
   ]
