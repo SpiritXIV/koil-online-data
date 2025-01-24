@@ -171,8 +171,8 @@
     },
     {
         "path": "sys/design/audio",
-        "name": "title_screen_sowel_steps.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_sowel_steps.ogg"
+        "name": "title_screen_music_sowel_steps.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_sowel_steps.ogg"
     },
     {
         "path": "sys/design/audio",
