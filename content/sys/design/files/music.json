@@ -163,6 +163,12 @@
       "artist": "Bashful"
     },
     {
+      "tags": ["faraway", "far away", "far_away"],
+      "fileSuffix": "_faraway.ogg",
+      "title": "Faraway (unreleased)",
+      "artist": "Bashful"
+    },
+    {
       "tags": ["turnover"],
       "fileSuffix": "_turnover.ogg",
       "title": "Turnover",
