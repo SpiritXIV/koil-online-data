@@ -275,6 +275,11 @@
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_watchtower.ogg"
     },
     {
+        "path": "sys/design/audio",
+        "name": "title_screen_faraway.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_faraway.ogg"
+    },
+    {
         "path": "sys/design/images",
         "name": "audio.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/audio.png"
