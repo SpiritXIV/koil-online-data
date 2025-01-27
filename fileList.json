@@ -456,6 +456,16 @@
     },
     {
         "path": "sys/design/images",
+        "name": "archipelago_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/archipelago_icon.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "discharged_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/discharged_icon.png"
+    },
+    {
+        "path": "sys/design/images",
         "name": "koil_message_toasts.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_message_toasts.png"
     },
