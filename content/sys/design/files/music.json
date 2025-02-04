@@ -43,6 +43,12 @@
       "artist": "Bashful"
     },
     {
+      "tags": ["grynn"],
+      "fileSuffix": "_grynn.ogg",
+      "title": "Grynn (unreleased)",
+      "artist": "Bashful"
+    },
+    {
       "tags": ["split", "inpart", "in part", "in_part"],
       "fileSuffix": "_split.ogg",
       "title": "In Part (unreleased)",
