@@ -111,6 +111,11 @@
     },
     {
         "path": "sys/design/images",
+        "name": "loading_screen_grynn.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_grynn.png"
+    },
+    {
+        "path": "sys/design/images",
         "name": "loading_screen_halloween.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_halloween.png"
     },
@@ -153,6 +158,11 @@
         "path": "sys/design/audio",
         "name": "title_screen_music_analiea.ogg",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_analiea.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_grynn.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_grynn.ogg"
     },
     {
         "path": "sys/design/audio",
@@ -463,6 +473,11 @@
         "path": "sys/design/images",
         "name": "discharged_icon.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/discharged_icon.png"
+    },
+    {
+        "path": "sys/design/images",
+        "name": "grynn_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/grynn_icon.png"
     },
     {
         "path": "sys/design/images",
