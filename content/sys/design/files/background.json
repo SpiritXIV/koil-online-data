@@ -21,6 +21,10 @@
       "fileSuffix": "_analiea"
     },
     {
+      "tags": ["grynn"],
+      "fileSuffix": "_grynn"
+    },
+    {
       "tags": ["split", "inpart", "in part", "in_part"],
       "fileSuffix": "_split"
     },
