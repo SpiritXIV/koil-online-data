@@ -187,6 +187,12 @@
       "artist": "Bashful"
     },
     {
+      "tags": ["bit crush", "bit_crush"],
+      "fileSuffix": "_bit_crush.ogg",
+      "title": "Bit crush (unreleased)",
+      "artist": "Bashful"
+    },
+    {
       "tags": ["turnover"],
       "fileSuffix": "_turnover.ogg",
       "title": "Turnover",
