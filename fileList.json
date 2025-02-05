@@ -285,6 +285,16 @@
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_faraway.ogg"
     },
     {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_comeback.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_comeback.ogg"
+    },
+    {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_approach.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_approach.ogg"
+    },
+    {
         "path": "sys/design/images",
         "name": "audio.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/audio.png"
