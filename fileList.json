@@ -295,6 +295,11 @@
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_approach.ogg"
     },
     {
+        "path": "sys/design/audio",
+        "name": "title_screen_music_bit_crush.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_bit_crush.ogg"
+    },
+    {
         "path": "sys/design/images",
         "name": "audio.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/audio.png"
