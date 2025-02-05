@@ -175,6 +175,18 @@
       "artist": "Bashful"
     },
     {
+      "tags": ["comeback", "come back", "come_back"],
+      "fileSuffix": "_comeback.ogg",
+      "title": "Comeback (unreleased)",
+      "artist": "Bashful"
+    },
+    {
+      "tags": ["approach"],
+      "fileSuffix": "_approach.ogg",
+      "title": "Approach (unreleased)",
+      "artist": "Bashful"
+    },
+    {
       "tags": ["turnover"],
       "fileSuffix": "_turnover.ogg",
       "title": "Turnover",
