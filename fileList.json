@@ -431,8 +431,8 @@
     },
     {
         "path": "sys/design/images",
-        "name": "koil_fundraise.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_fundraise.png"
+        "name": "koil_support.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_support.png"
     },
     {
         "path": "sys/design/images",
