@@ -516,6 +516,11 @@
     },
     {
         "path": "sys/design/images",
+        "name": "koil_funding.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_funding.png"
+    },
+    {
+        "path": "sys/design/images",
         "name": "all_apps_icon.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/all_apps_icon.png"
     },
