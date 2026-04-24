@@ -1,0 +1,99 @@
+{
+  "version": 6,
+  "provider": "kofi",
+  "currency": "USD",
+  "current": 10.47,
+  "goal": 100,
+  "nextGoal": 200,
+  "waypointCount": 4,
+  "fundraiserTitle": "Goal:",
+  "fundraiserDescription": "This bar tracks how much fans have donated in total toward the current Ko-fi custom-amount shop fundraiser item. The Membership section is for recurring support tiers, while the Shop section is where fans can donate custom amounts to fundraiser items.",
+  "links": {
+    "kofi": "https://ko-fi.com/spiritxiv",
+    "membership": "https://ko-fi.com/spiritxiv/tiers"
+  },
+  "defaults": {
+    "enabled": true,
+    "visible": true,
+    "active": true,
+    "featured": true,
+    "currency": "USD",
+    "billingPeriod": "monthly",
+    "ctaLabel": "Purchase",
+    "iconBasePath": "membership/",
+    "iconType": "png",
+    "displayNameSuffix": " Supporter"
+  },
+  "styles": {
+    "copper": {
+      "accentColor": "#B86B43",
+      "accentColorSecondary": "#E3A27E",
+      "badgeText": "COPPER",
+      "badgeColor": "#D98A5F",
+      "presenceText": "Supporter",
+      "tags": ["monthly", "entry"]
+    },
+    "silver": {
+      "accentColor": "#C7CDD6",
+      "accentColorSecondary": "#EEF2F6",
+      "badgeText": "SILVER",
+      "badgeColor": "#DDE3EB",
+      "presenceText": "Recognized Supporter",
+      "tags": ["monthly", "mid-tier"]
+    },
+    "gold": {
+      "accentColor": "#D9AF36",
+      "accentColorSecondary": "#F3DC83",
+      "badgeText": "GOLD",
+      "badgeColor": "#F6D56A",
+      "presenceText": "Premium Supporter",
+      "tags": ["monthly", "premium"]
+    },
+    "platinum": {
+      "accentColor": "#8ED3E8",
+      "accentColorSecondary": "#DDF8FF",
+      "badgeText": "PLATINUM",
+      "badgeColor": "#B5F0FF",
+      "presenceText": "Elite Supporter",
+      "tags": ["monthly", "elite"]
+    }
+  },
+  "tiers": [
+    {
+      "id": "copper_membership",
+      "name": "Koil Supporter - Copper",
+      "style": "copper",
+      "amount": 2.59,
+      "description": "Support the development of Koil by funding a small amount per month!",
+      "benefits": [
+        "In game Koil Copper supporter badge",
+        "Discord Koil Copper supporter badge",
+        "Helps support Koil development every month"
+      ]
+    },
+    {
+      "id": "silver_membership",
+      "name": "Silver",
+      "style": "silver",
+      "amount": 6.98,
+      "description": "Support the development of Koil by funding a large amount per month!",
+      "benefits": [
+        "In game Koil Silver supporter badge",
+        "Discord Koil Silver supporter badge",
+        "Helps support Koil development every month"
+      ]
+    },
+    {
+      "id": "gold_membership",
+      "name": "Gold",
+      "style": "gold",
+      "amount": 11.72,
+      "description": "Support the development of Koil by funding a Ginormous amount per month!",
+      "benefits": [
+        "In game Koil Gold supporter badge",
+        "Discord Koil Gold supporter badge",
+        "Helps support Koil development every month"
+      ]
+    }
+  ]
+}
