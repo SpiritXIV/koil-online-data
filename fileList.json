@@ -1,533 +1,778 @@
 [
     {
-        "path": "sys/design/images",
-        "name": "loading_screen.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_night.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_night.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_beach.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_beach.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_birch_forest.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_birch_forest.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_cherry_blossom.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_cherry_blossom.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_copper_shaft.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_copper_shaft.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_desert.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_desert.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_mangrove.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_mangrove.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_mineshaft.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_mineshaft.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_mountain.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_mountain.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_ocean_day_boat.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_day_boat.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_ocean_night_boat.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_night_boat.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_ocean_split_boat.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_split_boat.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_ocean_night.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_night.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_savanna.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_savanna.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_snowy_slope.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_snowy_slope.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_swamp.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_swamp.png"
-    },
-    {
-        "path": "sys/design/images",
+        "path": "sys/design/default/images",
         "name": "loading_screen_taiga.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_taiga.png"
     },
     {
-        "path": "sys/design/images",
-        "name": "loading_screen_underwater.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_underwater.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_split.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_split.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_ignite.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ignite.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_analiea.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_analiea.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_grynn.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_grynn.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "loading_screen_halloween.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_halloween.png"
-    },
-    {
-        "path": "sys/design/images",
+        "path": "sys/design/default/images",
         "name": "loading_screen_christmas.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_christmas.png"
     },
     {
-        "path": "sys/design/audio",
-        "name": "title_screen_music.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_night.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_night.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_midnight.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_midnight.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_split.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_split.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_analiea.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_analiea.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_ignite.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_ignite.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_analiea.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_analiea.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_grynn.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_grynn.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_halloween.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_halloween.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_christmas.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_christmas.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_frozen_christmas.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_frozen_christmas.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_sowel_steps.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_sowel_steps.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_coma.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_coma.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_maze_1.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_1.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_maze_1_background.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_1_background.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_maze_2.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_2.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_maze_2_background.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_2_background.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_maze_3.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_3.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_maze_3_background.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_3_background.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_maze_4.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_4.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_maze_4_background.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_4_background.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_maze_5.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_5.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_maze_5_background.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_5_background.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_recrelation.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_recrelation.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_the_adversary_of_finality.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_the_adversary_of_finality.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_apex.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_apex.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_maze_plunderer.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_plunderer.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_dotted_iris.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_dotted_iris.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_turnover.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_turnover.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_stand_off.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_stand_off.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_watchtower.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_watchtower.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_faraway.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_faraway.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_comeback.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_comeback.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_approach.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_approach.ogg"
-    },
-    {
-        "path": "sys/design/audio",
-        "name": "title_screen_music_bit_crush.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_bit_crush.ogg"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "audio.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/audio.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "code.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/code.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "code_book.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/code_book.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "fabric.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/fabric.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "file.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/file.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "folder.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/folder.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "forge.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/forge.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "fundraise.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/fundraise.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/icon.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "image.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/image.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "koil_message_toast.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_message_toast.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "koil_toasts.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_toasts.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "koil_api.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_api.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "koro.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koro.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "log.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/log.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "mcmeta.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/mcmeta.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "pause.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/pause.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "play.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/play.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "quilt.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/quilt.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "start_book.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/start_book.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "stop.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/stop.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "structure.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/structure.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "text.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/text.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "video.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/video.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "zip.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/zip.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "koil.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "koil_support.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_support.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "koil_mod_menu.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_mod_menu.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "koil_update.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_update.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "analiea_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/analiea_icon.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "bordered_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/bordered_icon.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "ignite_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/ignite_icon.png"
-    },
-    {
-        "path": "sys/design/images",
-        "name": "milked_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/milked_icon.png"
-    },
-    {
-        "path": "sys/design/images",
+        "path": "sys/design/default/images",
         "name": "retromania_icon.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/retromania_icon.png"
     },
     {
-        "path": "sys/design/images",
-        "name": "shit_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/shit_icon.png"
+        "path": "sys/design/default/images",
+        "name": "web_file.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/web_file.png"
     },
     {
-        "path": "sys/design/images",
-        "name": "tdbtd_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/tdbtd_icon.png"
+        "path": "sys/design/default/images",
+        "name": "loading_screen_swamp.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_swamp.png"
     },
     {
-        "path": "sys/design/images",
-        "name": "archipelago_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/archipelago_icon.png"
+        "path": "sys/design/default/images",
+        "name": "placebo.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/placebo.png"
     },
     {
-        "path": "sys/design/images",
-        "name": "discharged_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/discharged_icon.png"
+        "path": "sys/design/default/images",
+        "name": "json_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/json_colored.png"
     },
     {
-        "path": "sys/design/images",
-        "name": "grynn_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/grynn_icon.png"
+        "path": "sys/design/default/images",
+        "name": "fundraise.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/fundraise.png"
     },
     {
-        "path": "sys/design/images",
-        "name": "koil_message_toasts.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_message_toasts.png"
+        "path": "sys/design/default/images",
+        "name": "database_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/database_colored.png"
     },
     {
-        "path": "sys/design/images",
-        "name": "loading_text.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_text.png"
+        "path": "sys/design/default/images",
+        "name": "milked_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/milked_icon.png"
     },
     {
-        "path": "sys/design/images",
-        "name": "mojang_mini_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/mojang_mini_icon.png"
+        "path": "sys/design/default/images",
+        "name": "stop.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/stop.png"
     },
     {
-        "path": "sys/design/images",
+        "path": "sys/design/default/images",
+        "name": "mcmeta.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/mcmeta.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_ignite.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ignite.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "markdown.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/markdown.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_mangrove.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_mangrove.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_cherry_blossom.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_cherry_blossom.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/icon.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "code.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/code.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "json5_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/json5_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "github_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/github_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "font_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/font_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_mountain.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_mountain.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "text_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/text_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "mcmeta_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/mcmeta_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
         "name": "options_background_blank.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/options_background_blank.png"
     },
     {
-        "path": "sys/design/images",
+        "path": "sys/design/default/images",
+        "name": "code_book.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/code_book.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_copper_shaft.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_copper_shaft.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "python.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/python.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "security_file.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/security_file.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "web_file_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/web_file_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "fabric_file_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/fabric_file_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "json.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/json.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_snowy_slope.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_snowy_slope.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "cpp.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/cpp.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "zip.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/zip.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "fsh.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/fsh.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "properties.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/properties.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "env.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/env.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "file.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/file.png"
+    },
+    {
+        "path": "sys/design/default/images",
         "name": "koil_funding.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_funding.png"
     },
     {
-        "path": "sys/design/images",
+        "path": "sys/design/default/images",
+        "name": "java_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/java_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "database.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/database.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "grynn_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/grynn_icon.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "image_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/image_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_mineshaft.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_mineshaft.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "github.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/github.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "java.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/java.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "log_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/log_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_ocean_split_boat.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_split_boat.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "analiea_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/analiea_icon.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "koil_message_toasts.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_message_toasts.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "vsh_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/vsh_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "exe_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/exe_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_ocean_night_boat.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_night_boat.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "koil_file.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_file.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "app_icon_fallback.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/app_icon_fallback.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_savanna.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_savanna.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "cpp_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/cpp_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_desert.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_desert.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "quilt_file_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/quilt_file_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "font.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/font.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "video_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/video_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "json5.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/json5.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_halloween.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_halloween.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "folder.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/folder.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "exe.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/exe.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "koil.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "ignite_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/ignite_icon.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "koil_update_toasts.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_update_toasts.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "structure.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/structure.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "pause.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/pause.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "bordered_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/bordered_icon.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "markdown_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/markdown_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "fsh_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/fsh_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "placebo_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/placebo_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_ocean_day_boat.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_day_boat.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "shader.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/shader.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_beach.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_beach.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "fabric.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/fabric.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "video.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/video.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "tdbtd_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/tdbtd_icon.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "properties_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/properties_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "c_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/c_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "audio.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/audio.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_grynn.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_grynn.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "forge.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/forge.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "koil_file_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_file_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "koil_update.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_update.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "shader_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/shader_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "log.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/log.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "automation.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/automation.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_night.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_night.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "discharged_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/discharged_icon.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "c.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/c.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_split.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_split.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_ocean_night.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_night.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "mojang_mini_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/mojang_mini_icon.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_text.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_text.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "vsh.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/vsh.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "env_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/env_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "start_book.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/start_book.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_birch_forest.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_birch_forest.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "cs.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/cs.png"
+    },
+    {
+        "path": "sys/design/default/images",
         "name": "all_apps_icon.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/all_apps_icon.png"
     },
     {
-        "path": "sys/design/images",
-        "name": "app_icon_fallback.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/app_icon_fallback.png"
+        "path": "sys/design/default/images",
+        "name": "python_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/python_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "koil_mod_menu.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_mod_menu.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "shit_icon.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/shit_icon.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "play.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/play.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "koil_toasts.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_toasts.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "audio_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/audio_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "cs_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/cs_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "security_file_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/security_file_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "loading_screen_underwater.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_underwater.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "image.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/image.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "zip_colored.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/zip_colored.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "fabric_file.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/fabric_file.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "copper.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/copper.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "silver.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/silver.png"
+    },
+    {
+        "path": "sys/design/default/images",
+        "name": "gold.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/gold.png"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_night.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_night.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_midnight.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_midnight.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_split.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_split.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_analiea.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_analiea.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_ignite.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_ignite.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_analiea.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_analiea.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_grynn.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_grynn.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_halloween.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_halloween.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_christmas.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_christmas.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_frozen_christmas.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_frozen_christmas.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_sowel_steps.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_sowel_steps.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_coma.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_coma.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_maze_1.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_1.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_maze_1_background.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_1_background.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_maze_2.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_2.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_maze_2_background.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_2_background.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_maze_3.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_3.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_maze_3_background.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_3_background.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_maze_4.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_4.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_maze_4_background.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_4_background.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_maze_5.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_5.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_maze_5_background.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_5_background.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_recrelation.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_recrelation.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_the_adversary_of_finality.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_the_adversary_of_finality.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_apex.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_apex.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_maze_plunderer.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_maze_plunderer.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_dotted_iris.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_dotted_iris.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_turnover.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_turnover.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_stand_off.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_stand_off.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_watchtower.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_watchtower.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_faraway.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_faraway.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_comeback.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_comeback.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_approach.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_approach.ogg"
+    },
+    {
+        "path": "sys/design/default/audio",
+        "name": "title_screen_music_bit_crush.ogg",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_bit_crush.ogg"
     },
     {
         "path": "sys/applications/appStore",
