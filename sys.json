@@ -1,8 +1,8 @@
 {
   "version": "0.70.25",
-  "betaVersion": "0.70.26-unfinished.2",
+  "betaVersion": "0.70.26-unfinished.3",
   "maintenance": false,
   "maintenanceReason": "Server File Management!",
-  "announcement": false,
-  "announcementReason": "10 new songs avalable!"
+  "announcement": true,
+  "announcementReason": "Preparing for version 0.70.26!"
 }
