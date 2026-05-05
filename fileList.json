@@ -585,17 +585,17 @@
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/fabric_file.png"
     },
     {
-        "path": "sys/design/default/images",
+        "path": "sys/design/default/images/membership",
         "name": "copper.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/copper.png"
     },
     {
-        "path": "sys/design/default/images",
+        "path": "sys/design/default/images/membership",
         "name": "silver.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/silver.png"
     },
     {
-        "path": "sys/design/default/images",
+        "path": "sys/design/default/images/membership",
         "name": "gold.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/gold.png"
     },
