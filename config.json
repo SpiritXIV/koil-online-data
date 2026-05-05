@@ -1,15 +1,21 @@
 {
+  "firstLaunch": true,
   "debug": false,
-  "beta": false,
-  "uiRedesign": true,
+  "openKoilLogOnStartUp": false,
+  "isBetaTesting": false,
+  "uiRedesign": false,
+  "uiTheme": "default",
+  "uiDesignDirectory": "./koil/sys/design",
+  "wantsColoredFileIcons": false,
   "background": "",
   "backgroundMusic": "",
-  "musicVolume": -15,
+  "musicVolume": -10,
   "designMusic": true,
   "holidayDesign": true,
   "holidayDesignMusic": true,
   "disableDebugToast": false,
-  "disableKoroValidateToast": false,
   "disableMaintenanceToast": false,
-  "disableAnnouncementToast": false
+  "disableAnnouncementToast": false,
+  "compactConfigListing": false,
+  "menuPanorama": false
 }
