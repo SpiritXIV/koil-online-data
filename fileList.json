@@ -116,6 +116,11 @@
     },
     {
         "path": "sys/design/default/images",
+        "name": "text.png",
+        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/text.png"
+    },
+    {
+        "path": "sys/design/default/images",
         "name": "mcmeta_colored.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/mcmeta_colored.png"
     },
