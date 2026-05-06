@@ -11,11 +11,6 @@
     },
     {
         "path": "sys/design/default/images",
-        "name": "retromania_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/retromania_icon.png"
-    },
-    {
-        "path": "sys/design/default/images",
         "name": "web_file.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/web_file.png"
     },
@@ -43,11 +38,6 @@
         "path": "sys/design/default/images",
         "name": "database_colored.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/database_colored.png"
-    },
-    {
-        "path": "sys/design/default/images",
-        "name": "milked_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/milked_icon.png"
     },
     {
         "path": "sys/design/default/images",
@@ -216,11 +206,6 @@
     },
     {
         "path": "sys/design/default/images",
-        "name": "grynn_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/grynn_icon.png"
-    },
-    {
-        "path": "sys/design/default/images",
         "name": "image_colored.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/image_colored.png"
     },
@@ -248,11 +233,6 @@
         "path": "sys/design/default/images",
         "name": "loading_screen_ocean_split_boat.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_ocean_split_boat.png"
-    },
-    {
-        "path": "sys/design/default/images",
-        "name": "analiea_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/analiea_icon.png"
     },
     {
         "path": "sys/design/default/images",
@@ -341,11 +321,6 @@
     },
     {
         "path": "sys/design/default/images",
-        "name": "ignite_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/ignite_icon.png"
-    },
-    {
-        "path": "sys/design/default/images",
         "name": "koil_update_toasts.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_update_toasts.png"
     },
@@ -358,11 +333,6 @@
         "path": "sys/design/default/images",
         "name": "pause.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/pause.png"
-    },
-    {
-        "path": "sys/design/default/images",
-        "name": "bordered_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/bordered_icon.png"
     },
     {
         "path": "sys/design/default/images",
@@ -403,11 +373,6 @@
         "path": "sys/design/default/images",
         "name": "video.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/video.png"
-    },
-    {
-        "path": "sys/design/default/images",
-        "name": "tdbtd_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/tdbtd_icon.png"
     },
     {
         "path": "sys/design/default/images",
@@ -468,11 +433,6 @@
         "path": "sys/design/default/images",
         "name": "loading_screen_night.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/loading_screen_night.png"
-    },
-    {
-        "path": "sys/design/default/images",
-        "name": "discharged_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/discharged_icon.png"
     },
     {
         "path": "sys/design/default/images",
@@ -538,11 +498,6 @@
         "path": "sys/design/default/images",
         "name": "koil_mod_menu.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_mod_menu.png"
-    },
-    {
-        "path": "sys/design/default/images",
-        "name": "shit_icon.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/shit_icon.png"
     },
     {
         "path": "sys/design/default/images",
@@ -628,11 +583,6 @@
         "path": "sys/design/default/audio",
         "name": "title_screen_music_analiea.ogg",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_analiea.ogg"
-    },
-    {
-        "path": "sys/design/default/audio",
-        "name": "title_screen_music_ignite.ogg",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/audio/title_screen_music_ignite.ogg"
     },
     {
         "path": "sys/design/default/audio",
