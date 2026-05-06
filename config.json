@@ -2,7 +2,7 @@
   "firstLaunch": true,
   "debug": false,
   "openKoilLogOnStartUp": false,
-  "isBetaTesting": false,
+  "isBetaTesting": true,
   "uiRedesign": false,
   "uiTheme": "default",
   "uiDesignDirectory": "./koil/sys/design",
