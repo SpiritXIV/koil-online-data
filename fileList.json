@@ -31,11 +31,6 @@
     },
     {
         "path": "sys/design/default/images",
-        "name": "fundraise.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/fundraise.png"
-    },
-    {
-        "path": "sys/design/default/images",
         "name": "database_colored.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/database_colored.png"
     },
