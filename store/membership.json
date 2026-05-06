@@ -7,7 +7,7 @@
   "nextGoal": 200,
   "waypointCount": 4,
   "fundraiserTitle": "Goal:",
-  "fundraiserDescription": "This bar tracks how much fans have donated in total toward the current Ko-fi custom-amount shop fundraiser item. The Membership section is for recurring support tiers, while the Shop section is where fans can donate custom amounts to fundraiser items.",
+  "fundraiserDescription": "This bar tracks how much total revenue Koil has gained on modrith, plus what fans have donated toward Koil.",
   "links": {
     "kofi": "https://ko-fi.com/spiritxiv",
     "membership": "https://ko-fi.com/spiritxiv/tiers"
