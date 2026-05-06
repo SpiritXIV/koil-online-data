@@ -10,7 +10,7 @@
   "background": "",
   "backgroundMusic": "",
   "musicVolume": -10,
-  "designMusic": false,
+  "designMusic": true,
   "holidayDesign": true,
   "holidayDesignMusic": true,
   "disableDebugToast": false,
