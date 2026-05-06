@@ -3,7 +3,7 @@
   "debug": true,
   "openKoilLogOnStartUp": false,
   "isBetaTesting": true,
-  "uiRedesign": false,
+  "uiRedesign": true,
   "uiTheme": "default",
   "uiDesignDirectory": "./koil/sys/design",
   "wantsColoredFileIcons": false,
