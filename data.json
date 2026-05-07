@@ -132,7 +132,7 @@
         {
           "title": "File and app systems",
           "items": [
-            "Kowzler Filing System: new file management system with .ogg support and an integrated File Explorer.",
+            "Filing System: new file management system with .ogg support and an integrated File Explorer.",
             "Custom JSON/Java Apps: support for creating and implementing custom utility or casual apps.",
             "Koil File Explorer Improvements: improved usability and navigation."
           ]
