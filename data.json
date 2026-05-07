@@ -1,6 +1,382 @@
 {
-  "changeLog": "0.70.25-| # :\n          | - Auto Update System: Automatically manages updates directly from the title screen for seamless integration.\n          | - Koro (AI Assistant): A built-in AI assistant for user engagement, offering suggestions and enhanced communication.\n          | - Kowzler Filing System: A new file management system with support for .ogg files and an integrated File Explorer.\n          | - Full UI Customization: Added the ability to fully customize UI colors and aesthetics.\n          | - Fundraising Page: A dedicated page within the game interface for community contributions.\n          | - Custom JSON/Java Apps: Added support for creating and implementing custom utility or casual apps.\n          | - Advanced Developer Tools: Included new tools for gathering and analyzing system information.\n          | - Internet Connection Warnings: Added alerts for internet loss or instability during gameplay.\n          | - Dark Mode: Introduced a background dark mode for improved visual comfort.\n          | - Mod Download Section: Added a section in the Mod Manager for downloading mods directly in-game.\n          | - Resource Pack Download Menu: Added a dedicated download menu in the Resource Pack screen.\n          | - Improved Options Menu: Fully revamped for better navigation and usability.\n          | - Singleplayer Menu Fixes: Resolved issues with background rendering in the Singleplayer menu.\n          | - Koil File Explorer Improvements: Enhanced usability and interface for better navigation.\n          | - Scrolling Fixes: Fixed scrolling issues within the File Editor screen.\n          | - Performance Optimization: Improved overall system performance and file management efficiency.\n          | - Server Communication Enhancements: Increased the reliability and speed of server communication.\n",
-  "changeLogBeta": "0.70.26-| # unfinished.3:\n          | - Preparing for update 0.70.26\n",
-  "changeLogFull": "0.70.25-| # :\n          | - Auto Update System: Automatically manages updates directly from the title screen for seamless integration.\n          | - Koro (AI Assistant): A built-in AI assistant for user engagement, offering suggestions and enhanced communication.\n          | - Kowzler Filing System: A new file management system with support for .ogg files and an integrated File Explorer.\n          | - Full UI Customization: Added the ability to fully customize UI colors and aesthetics.\n          | - Fundraising Page: A dedicated page within the game interface for community contributions.\n          | - Custom JSON/Java Apps: Added support for creating and implementing custom utility or casual apps.\n          | - Advanced Developer Tools: Included new tools for gathering and analyzing system information.\n          | - Internet Connection Warnings: Added alerts for internet loss or instability during gameplay.\n          | - Dark Mode: Introduced a background dark mode for improved visual comfort.\n          | - Mod Download Section: Added a section in the Mod Manager for downloading mods directly in-game.\n          | - Resource Pack Download Menu: Added a dedicated download menu in the Resource Pack screen.\n          | - Improved Options Menu: Fully revamped for better navigation and usability.\n          | - Singleplayer Menu Fixes: Resolved issues with background rendering in the Singleplayer menu.\n          | - Koil File Explorer Improvements: Enhanced usability and interface for better navigation.\n          | - Scrolling Fixes: Fixed scrolling issues within the File Editor screen.\n          | - Performance Optimization: Improved overall system performance and file management efficiency.\n          | - Server Communication Enhancements: Increased the reliability and speed of server communication.\n0.70.24-| # :\n          | - alot of things, the manager menu, and bug fixes for the json creations\n0.70.23-| # :\n          | - The great json item and block adjustments. (hella long for this log)\n0.70.22-| # :\n          | - Added the first of many features to the api, this addition lets you add items, and blocks.\n           using datapack.\n0.70.21-| # :\n          | - gun things\n0.70.20-| # :\n          | - Added items and more to the Ignite Branch.\n0.70.19-| # :\n          | - Fix Guns in Ignite.\n0.70.18-| # :\n          | - Added Connections for the branch Ignite.\n0.70.17-| # :\n          | - Its the same as before just altered for the new config system.",
-  "changeLogFullBeta": "0.70.26-| # unfinished.3:\n          | - Preparing for update 0.70.26\n          | # unfinished.2:\n          | - Made the new UI redesign toggleable.\n          | - Made it so you can disable certain toasts.\n          | - Began Separating the projects code from the api 3/5\n          | # unfinished.1:\n          | - Changed some system things with the background music and the themes allow you to go new themes and backgrounds without needing a new version of the mod.\n          | - Added an announcement system that will show up saying well, an announcement.\n          | - Fixed some random stupid bugs with the uis.\n0.70.25-| # :\n          | - Auto Update System: Automatically manages updates directly from the title screen for seamless integration.\n          | - Koro (AI Assistant): A built-in AI assistant for user engagement, offering suggestions and enhanced communication.\n          | - Kowzler Filing System: A new file management system with support for .ogg files and an integrated File Explorer.\n          | - Full UI Customization: Added the ability to fully customize UI colors and aesthetics.\n          | - Fundraising Page: A dedicated page within the game interface for community contributions.\n          | - Custom JSON/Java Apps: Added support for creating and implementing custom utility or casual apps.\n          | - Advanced Developer Tools: Included new tools for gathering and analyzing system information.\n          | - Internet Connection Warnings: Added alerts for internet loss or instability during gameplay.\n          | - Dark Mode: Introduced a background dark mode for improved visual comfort.\n          | - Mod Download Section: Added a section in the Mod Manager for downloading mods directly in-game.\n          | - Resource Pack Download Menu: Added a dedicated download menu in the Resource Pack screen.\n          | - Improved Options Menu: Fully revamped for better navigation and usability.\n          | - Singleplayer Menu Fixes: Resolved issues with background rendering in the Singleplayer menu.\n          | - Koil File Explorer Improvements: Enhanced usability and interface for better navigation.\n          | - Scrolling Fixes: Fixed scrolling issues within the File Editor screen.\n          | - Performance Optimization: Improved overall system performance and file management efficiency.\n          | - Server Communication Enhancements: Increased the reliability and speed of server communication.\n0.70.24-| # :\n          | - alot of things, the manager menu, and bug fixes for the json creations\n0.70.23-| # :\n          | - The great json item and block adjustments. (hella long for this log)\n0.70.22-| # :\n          | - Added the first of many features to the api, this addition lets you add items, and blocks.\n           using datapack.\n0.70.21-| # :\n          | - gun things\n0.70.20-| # :\n          | - Added items and more to the Ignite Branch.\n0.70.19-| # :\n          | - Fix Guns in Ignite.\n0.70.18-| # :\n          | - Added Connections for the branch Ignite.\n0.70.17-| # :\n          | - Its the same as before just altered for the new config system."
+  "schemaVersion": 2,
+  "modrinthProject": "koil",
+  "githubJarBaseUrl": "https://github.com/SpiritXIV/koil-online-data/raw/main",
+  "balanceMargin": 10,
+  "updateTypes": {
+    "ui": {
+      "label": "UI Integration and UI Development",
+      "color": "#d8507a",
+      "toast": "koil_update_toasts.png:red"
+    },
+    "debug": {
+      "label": "In-Game Debugging",
+      "color": "#6fd65a",
+      "toast": "koil_update_toasts.png:green"
+    },
+    "japi": {
+      "label": "J-API and Datapack Modding",
+      "color": "#42c5db",
+      "toast": "koil_update_toasts.png:blue"
+    },
+    "console": {
+      "label": "Console Gameplay",
+      "color": "#b25be0",
+      "toast": "koil_update_toasts.png:purple"
+    },
+    "combined": {
+      "label": "All Balanced",
+      "color": "#8c88b5",
+      "toast": "koil_update_toasts.png:combined"
+    }
+  },
+  "branches": [
+    {
+      "key": "public",
+      "label": "Public",
+      "githubPath": "public",
+      "betaOnly": false,
+      "description": "Downloads the newest public Koil jar from Modrinth."
+    },
+    {
+      "key": "unfinished",
+      "label": ".unfinished",
+      "githubPath": ".unfinished",
+      "betaOnly": true,
+      "description": "Downloads unfinished beta jars from GitHub."
+    },
+    {
+      "key": "frequent",
+      "label": ".frequent",
+      "githubPath": ".frequent",
+      "betaOnly": true,
+      "description": "Downloads frequent beta jars from GitHub."
+    }
+  ],
+  "activeBranchHint": "unfinished",
+  "releases": [
+    {
+      "name": "Koil 0.70.26 Unfinished Update",
+      "version": "0.70.26-unfinished.3",
+      "branch": "unfinished",
+      "githubPath": ".unfinished",
+      "date": "2026-05-07",
+      "percentages": {
+        "ui": 48,
+        "debug": 18,
+        "japi": 24,
+        "console": 10
+      },
+      "files": [
+        {
+          "label": "Unfinished build",
+          "fileName": "koil-0.70.26-unfinished.3.jar"
+        },
+        {
+          "label": "Latest unfinished build",
+          "fileName": "koil-unfinished-latest.jar"
+        }
+      ],
+      "sections": [
+        {
+          "title": "unfinished.3",
+          "items": [
+            "Preparing for update 0.70.26."
+          ]
+        },
+        {
+          "title": "unfinished.2",
+          "items": [
+            "Made the new UI redesign toggleable.",
+            "Made it so you can disable certain toasts.",
+            "Began separating the project code from the API. Progress: 3/5."
+          ]
+        },
+        {
+          "title": "unfinished.1",
+          "items": [
+            "Changed background music and theme systems so new themes and backgrounds can be added without requiring a new mod version.",
+            "Added an announcement system for showing Koil announcements.",
+            "Fixed several UI bugs across the project."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koil 0.70.25 Platform Update",
+      "version": "0.70.25",
+      "branch": "public",
+      "githubPath": "public",
+      "date": "2026-05-07",
+      "percentages": {
+        "ui": 45,
+        "debug": 20,
+        "japi": 20,
+        "console": 15
+      },
+      "files": [
+        {
+          "label": "Public Modrinth jar",
+          "fileName": "koil-0.70.25.jar"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Update and assistant systems",
+          "items": [
+            "Auto Update System: automatically manages updates directly from the title screen for seamless integration.",
+            "Koro AI Assistant: built-in assistant for user engagement, suggestions, and enhanced communication.",
+            "Internet Connection Warnings: alerts for internet loss or instability during gameplay."
+          ]
+        },
+        {
+          "title": "File and app systems",
+          "items": [
+            "Kowzler Filing System: new file management system with .ogg support and an integrated File Explorer.",
+            "Custom JSON/Java Apps: support for creating and implementing custom utility or casual apps.",
+            "Koil File Explorer Improvements: improved usability and navigation."
+          ]
+        },
+        {
+          "title": "UI and manager screens",
+          "items": [
+            "Full UI Customization: added full UI color and aesthetic customization.",
+            "Fundraising Page: dedicated in-game interface for community contributions.",
+            "Dark Mode: added darker background mode for visual comfort.",
+            "Improved Options Menu: revamped for better navigation and usability.",
+            "Singleplayer Menu Fixes: resolved background rendering issues in the Singleplayer menu."
+          ]
+        },
+        {
+          "title": "Content downloads",
+          "items": [
+            "Mod Download Section: added in-game mod downloads to the Mod Manager.",
+            "Resource Pack Download Menu: added a dedicated download menu in the Resource Pack screen."
+          ]
+        },
+        {
+          "title": "Developer and performance work",
+          "items": [
+            "Advanced Developer Tools: added tools for gathering and analyzing system information.",
+            "Scrolling Fixes: fixed scrolling issues within the File Editor screen.",
+            "Performance Optimization: improved overall system performance and file management efficiency.",
+            "Server Communication Enhancements: improved reliability and speed of server communication."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koil 0.70.24 Manager And JSON Fixes",
+      "version": "0.70.24",
+      "branch": "public",
+      "githubPath": "public",
+      "percentages": {
+        "ui": 42,
+        "debug": 23,
+        "japi": 25,
+        "console": 10
+      },
+      "files": [
+        {
+          "label": "Public Modrinth jar",
+          "fileName": "koil-0.70.24.jar"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Manager and JSON creation fixes",
+          "items": [
+            "Added many manager menu changes.",
+            "Fixed bugs in JSON creation systems."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koil 0.70.23 JSON Item And Block Adjustments",
+      "version": "0.70.23",
+      "branch": "public",
+      "githubPath": "public",
+      "percentages": {
+        "ui": 10,
+        "debug": 15,
+        "japi": 70,
+        "console": 5
+      },
+      "files": [
+        {
+          "label": "Public Modrinth jar",
+          "fileName": "koil-0.70.23.jar"
+        }
+      ],
+      "sections": [
+        {
+          "title": "J-API data systems",
+          "items": [
+            "Large JSON item and block adjustment pass."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koil 0.70.22 Datapack API Foundations",
+      "version": "0.70.22",
+      "branch": "public",
+      "githubPath": "public",
+      "percentages": {
+        "ui": 8,
+        "debug": 12,
+        "japi": 75,
+        "console": 5
+      },
+      "files": [
+        {
+          "label": "Public Modrinth jar",
+          "fileName": "koil-0.70.22.jar"
+        }
+      ],
+      "sections": [
+        {
+          "title": "API foundations",
+          "items": [
+            "Added the first major API features for adding items and blocks using datapack-style data."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koil 0.70.21 Gun Systems",
+      "version": "0.70.21",
+      "branch": "public",
+      "githubPath": "public",
+      "percentages": {
+        "ui": 10,
+        "debug": 20,
+        "japi": 55,
+        "console": 15
+      },
+      "files": [
+        {
+          "label": "Public Modrinth jar",
+          "fileName": "koil-0.70.21.jar"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Ignite gameplay work",
+          "items": [
+            "Gun systems work for the Ignite branch."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koil 0.70.20 Ignite Items",
+      "version": "0.70.20",
+      "branch": "public",
+      "githubPath": "public",
+      "percentages": {
+        "ui": 10,
+        "debug": 15,
+        "japi": 65,
+        "console": 10
+      },
+      "files": [
+        {
+          "label": "Public Modrinth jar",
+          "fileName": "koil-0.70.20.jar"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Ignite branch additions",
+          "items": [
+            "Added items and more content to the Ignite branch."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koil 0.70.19 Ignite Gun Fixes",
+      "version": "0.70.19",
+      "branch": "public",
+      "githubPath": "public",
+      "percentages": {
+        "ui": 5,
+        "debug": 55,
+        "japi": 30,
+        "console": 10
+      },
+      "files": [
+        {
+          "label": "Public Modrinth jar",
+          "fileName": "koil-0.70.19.jar"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Ignite fixes",
+          "items": [
+            "Fixed guns in Ignite."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koil 0.70.18 Ignite Connections",
+      "version": "0.70.18",
+      "branch": "public",
+      "githubPath": "public",
+      "percentages": {
+        "ui": 8,
+        "debug": 12,
+        "japi": 55,
+        "console": 25
+      },
+      "files": [
+        {
+          "label": "Public Modrinth jar",
+          "fileName": "koil-0.70.18.jar"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Ignite branch connections",
+          "items": [
+            "Added connections for the Ignite branch."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koil 0.70.17 Config System Migration",
+      "version": "0.70.17",
+      "branch": "public",
+      "githubPath": "public",
+      "percentages": {
+        "ui": 25,
+        "debug": 25,
+        "japi": 40,
+        "console": 10
+      },
+      "files": [
+        {
+          "label": "Public Modrinth jar",
+          "fileName": "koil-0.70.17.jar"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Config system migration",
+          "items": [
+            "Adjusted existing systems for the new config system."
+          ]
+        }
+      ]
+    }
+  ],
+  "changeLog": "0.70.25 public platform update.",
+  "changeLogBeta": "0.70.26 unfinished beta update.",
+  "changeLogFull": "Structured public changelog entries are available in releases.",
+  "changeLogFullBeta": "Structured beta and public changelog entries are available in releases."
 }
