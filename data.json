@@ -6,22 +6,22 @@
   "updateTypes": {
     "ui": {
       "label": "UI Integration and UI Development",
-      "color": "#d8507a",
+      "color": "#a7003a",
       "toast": "koil_update_toasts.png:red"
     },
     "debug": {
       "label": "In-Game Debugging",
-      "color": "#6fd65a",
+      "color": "#2da700",
       "toast": "koil_update_toasts.png:green"
     },
     "japi": {
       "label": "J-API and Datapack Modding",
-      "color": "#42c5db",
+      "color": "#0085a4",
       "toast": "koil_update_toasts.png:blue"
     },
     "console": {
       "label": "Console Gameplay",
-      "color": "#b25be0",
+      "color": "#7400a4",
       "toast": "koil_update_toasts.png:purple"
     },
     "combined": {
@@ -132,7 +132,7 @@
         {
           "title": "File and app systems",
           "items": [
-            "Filing System: new file management system with .ogg support and an integrated File Explorer.",
+            "Kowzler Filing System: new file management system with .ogg support and an integrated File Explorer.",
             "Custom JSON/Java Apps: support for creating and implementing custom utility or casual apps.",
             "Koil File Explorer Improvements: improved usability and navigation."
           ]
