@@ -3,6 +3,7 @@
   "debug": true,
   "openKoilLogOnStartUp": false,
   "isBetaTesting": true,
+  "betaBranch": "unfinished",
   "uiRedesign": true,
   "uiTheme": "default",
   "uiDesignDirectory": "./koil/sys/design",
