@@ -78,7 +78,8 @@
           "title": "unfinished.6",
           "items": [
             "Fixed the Updating system",
-            "Got Update Toast types to be correct and work!"
+            "Got Update Toast types to be correct and work!",
+            "Fixed the Menu Panorama option to finally work"
           ]
         },
         {
