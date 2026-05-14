@@ -1,8 +1,9 @@
 {
   "version": "0.70.25",
   "betaVersion": "0.70.26-unfinished.6",
+  "frequentVersion": "0.70.26-frequent.0",
   "maintenance": false,
   "maintenanceReason": "Server File Management!",
-  "announcement": true,
-  "announcementReason": "Preparing for version 0.70.26!"
+  "announcement": false,
+  "announcementReason": ""
 }
