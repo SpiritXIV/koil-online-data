@@ -77,7 +77,8 @@
         {
           "title": "unfinished.6",
           "items": [
-            "Fixed the Updating system"
+            "Fixed the Updating system",
+            "Got Update Toast types to be correct and work!"
           ]
         },
         {
