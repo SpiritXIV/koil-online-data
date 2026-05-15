@@ -18,5 +18,7 @@
   "disableMaintenanceToast": false,
   "disableAnnouncementToast": false,
   "compactConfigListing": false,
-  "menuPanorama": false
+  "menuPanorama": false,
+  "preciseStat": false,
+  "vanillaF3Design": false
 }
