@@ -20,5 +20,6 @@
   "compactConfigListing": false,
   "menuPanorama": false,
   "preciseStat": false,
+  "renderF3MiniDevWorld": false,
   "vanillaF3Design": false
 }
