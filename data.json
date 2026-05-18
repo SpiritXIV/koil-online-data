@@ -62,11 +62,10 @@
       "githubPath": ".unfinished",
       "date": "2026-05-07",
       "percentages": {
-        "ui": 58,
+        "ui": 60,
         "debug": 18,
-        "japi": 3,
         "console": 20,
-        "other": 1
+        "other": 2
       },
       "files": [
         {
@@ -86,7 +85,7 @@
         {
           "title": "unfinished.5",
           "items": [
-            "Added /optimize",
+            "Added /optimize and /stats",
             "Added redesigned f3 menu"
           ]
         },
@@ -133,11 +132,8 @@
       "githubPath": "public",
       "date": "2026-05-07",
       "percentages": {
-        "ui": 45,
-        "debug": 20,
-        "japi": 2,
-        "console": 15,
-        "other": 18
+        "ui": 72,
+        "other": 28
       },
       "files": [
         {
@@ -157,10 +153,8 @@
         {
           "title": "File and app systems",
           "items": [
-            "Kowzler Filing System: new file management system with .ogg support and an integrated File Explorer.",
-            "Custom JSON/Java Apps: support for creating and implementing custom utility or casual apps.",
-            "Koil File Explorer Improvements: improved usability and navigation."
-          ]
+            "Filing System: new file management system with multiple file support and an integrated File Explorer screen.",
+            "Custom JSON/Java Apps: support for creating and implementing custom utility or casual apps."          ]
         },
         {
           "title": "UI and manager screens",
@@ -177,15 +171,6 @@
           "items": [
             "Mod Download Section: added in-game mod downloads to the Mod Manager.",
             "Resource Pack Download Menu: added a dedicated download menu in the Resource Pack screen."
-          ]
-        },
-        {
-          "title": "Developer and performance work",
-          "items": [
-            "Advanced Developer Tools: added tools for gathering and analyzing system information.",
-            "Scrolling Fixes: fixed scrolling issues within the File Editor screen.",
-            "Performance Optimization: improved overall system performance and file management efficiency.",
-            "Server Communication Enhancements: improved reliability and speed of server communication."
           ]
         }
       ]
@@ -302,7 +287,7 @@
       ],
       "sections": [
         {
-          "title": "The begining",
+          "title": "The begining:",
           "items": [
             "No one remembers when Koil started development, but we know it roughly began at the end of 2022, as just a test."
           ]
