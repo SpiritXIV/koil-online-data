@@ -5,29 +5,29 @@
   "balanceMargin": 10,
   "updateTypes": {
     "ui": {
-      "label": "UI Integration and UI Development",
+      "label": "Interface",
       "color": "#a7003a",
       "toast": "koil_update_toasts.png:red"
     },
     "debug": {
-      "label": "In-Game Debugging",
+      "label": "Debugging",
       "color": "#2da700",
       "toast": "koil_update_toasts.png:green"
     },
     "japi": {
-      "label": "J-API and Datapack Modding",
+      "label": "Apis",
       "color": "#0085a4",
       "toast": "koil_update_toasts.png:blue"
     },
     "console": {
-      "label": "Console Gameplay",
+      "label": "Console",
       "color": "#7400a4",
       "toast": "koil_update_toasts.png:purple"
     },
-    "combined": {
-      "label": "All Balanced",
+    "other": {
+      "label": "Other",
       "color": "#8c88b5",
-      "toast": "koil_update_toasts.png:combined"
+      "toast": "koil_update_toasts.png:other"
     }
   },
   "branches": [
@@ -64,8 +64,9 @@
       "percentages": {
         "ui": 58,
         "debug": 18,
-        "japi": 4,
-        "console": 20
+        "japi": 3,
+        "console": 20,
+        "other": 1
       },
       "files": [
         {
@@ -134,8 +135,9 @@
       "percentages": {
         "ui": 45,
         "debug": 20,
-        "japi": 20,
-        "console": 15
+        "japi": 2,
+        "console": 15,
+        "other": 18
       },
       "files": [
         {
@@ -194,10 +196,9 @@
       "branch": "public",
       "githubPath": "public",
       "percentages": {
-        "ui": 42,
-        "debug": 23,
-        "japi": 25,
-        "console": 10
+        "ui": 22,
+        "japi": 78,
+        "other": 1
       },
       "files": [
         {
@@ -221,10 +222,8 @@
       "branch": "public",
       "githubPath": "public",
       "percentages": {
-        "ui": 10,
-        "debug": 15,
-        "japi": 70,
-        "console": 5
+        "japi": 95,
+        "other": 5
       },
       "files": [
         {
@@ -242,157 +241,70 @@
       ]
     },
     {
-      "name": "Koil 0.70.22 Datapack API Foundations",
-      "version": "0.70.22",
+      "name": "- Ruin Tracks Age -",
+      "version": "0.70.?",
       "branch": "public",
       "githubPath": "public",
       "percentages": {
-        "ui": 8,
-        "debug": 12,
-        "japi": 75,
-        "console": 5
+        "other": 100
       },
       "files": [
         {
-          "label": "Public Modrinth jar",
-          "fileName": "koil-0.70.22.jar"
+          "label": ".jar",
+          "fileName": "koil-0.70.?.jar"
         }
       ],
       "sections": [
         {
-          "title": "API foundations",
+          "title": "Description:",
           "items": [
-            "Added the first major API features for adding items and blocks using datapack-style data."
+            "Versions here and below are unarchived and have been ruined/lost. As in the tracks of the development are destroyed beyond this point..."
           ]
         }
       ]
     },
     {
-      "name": "Koil 0.70.21 Gun Systems",
-      "version": "0.70.21",
+      "name": "Koil 0.70.0",
+      "version": "0.70.0",
       "branch": "public",
       "githubPath": "public",
       "percentages": {
-        "ui": 10,
-        "debug": 20,
-        "japi": 55,
-        "console": 15
+        "other": 100
       },
       "files": [
         {
-          "label": "Public Modrinth jar",
-          "fileName": "koil-0.70.21.jar"
+          "label": ".jar",
+          "fileName": "koil-0.70.0.jar"
         }
       ],
       "sections": [
         {
-          "title": "Ignite gameplay work",
+          "title": "0.70.*",
           "items": [
-            "Gun systems work for the Ignite branch."
+            "Major point in the system where the version styleing and meaning was set."
           ]
         }
       ]
     },
     {
-      "name": "Koil 0.70.20 Ignite Items",
-      "version": "0.70.20",
+      "name": "Koil 0.0.1",
+      "version": "0.0.0",
       "branch": "public",
       "githubPath": "public",
       "percentages": {
-        "ui": 10,
-        "debug": 15,
-        "japi": 65,
-        "console": 10
+        "other": 100
       },
       "files": [
         {
-          "label": "Public Modrinth jar",
-          "fileName": "koil-0.70.20.jar"
+          "label": ".jar",
+          "fileName": "koil-0.0.1.jar"
         }
       ],
       "sections": [
         {
-          "title": "Ignite branch additions",
+          "title": "The begining",
           "items": [
-            "Added items and more content to the Ignite branch."
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Koil 0.70.19 Ignite Gun Fixes",
-      "version": "0.70.19",
-      "branch": "public",
-      "githubPath": "public",
-      "percentages": {
-        "ui": 5,
-        "debug": 55,
-        "japi": 30,
-        "console": 10
-      },
-      "files": [
-        {
-          "label": "Public Modrinth jar",
-          "fileName": "koil-0.70.19.jar"
-        }
-      ],
-      "sections": [
-        {
-          "title": "Ignite fixes",
-          "items": [
-            "Fixed guns in Ignite."
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Koil 0.70.18 Ignite Connections",
-      "version": "0.70.18",
-      "branch": "public",
-      "githubPath": "public",
-      "percentages": {
-        "ui": 8,
-        "debug": 12,
-        "japi": 55,
-        "console": 25
-      },
-      "files": [
-        {
-          "label": "Public Modrinth jar",
-          "fileName": "koil-0.70.18.jar"
-        }
-      ],
-      "sections": [
-        {
-          "title": "Ignite branch connections",
-          "items": [
-            "Added connections for the Ignite branch."
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Koil 0.70.17 Config System Migration",
-      "version": "0.70.17",
-      "branch": "public",
-      "githubPath": "public",
-      "percentages": {
-        "ui": 25,
-        "debug": 25,
-        "japi": 40,
-        "console": 10
-      },
-      "files": [
-        {
-          "label": "Public Modrinth jar",
-          "fileName": "koil-0.70.17.jar"
-        }
-      ],
-      "sections": [
-        {
-          "title": "Config system migration",
-          "items": [
-            "Adjusted existing systems for the new config system."
+            "No one remembers when Koil started development, but we know it roughly began at the end of 2022, as just a test."
           ]
         }
       ]
