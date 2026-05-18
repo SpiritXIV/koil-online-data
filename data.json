@@ -62,65 +62,105 @@
       "githubPath": ".unfinished",
       "date": "2026-05-07",
       "percentages": {
-        "ui": 60,
-        "debug": 18,
-        "console": 20,
-        "other": 2
+        "ui": 36,
+        "debug": 20,
+        "console": 24,
+        "japi": 17,
+        "other": 3
       },
       "files": [
         {
           "label": "Unfinished build",
           "fileName": "koil-0.70.26-unfinished.6.jar"
-        },
+        }
       ],
       "sections": [
         {
-          "title": "unfinished.6",
+          "title": "Removed projects bundled systems from Koil",
           "items": [
-            "Fixed the Updating system",
-            "Got Update Toast types to be correct and work!",
-            "Fixed the Menu Panorama option to finally work"
+            "Removed Analiea entrypoints and classes from Koil.",
+            "Removed Ignite entrypoints and classes from Koil.",
+            "Removed Koro from Koil."
           ]
         },
         {
-          "title": "unfinished.5",
+          "title": "Improved the Update system",
           "items": [
-            "Added /optimize and /stats",
-            "Added redesigned f3 menu"
+            "Improved the Koil update screen and structured update data model for branches, releases, files, sections, and update types.",
+            "Added update state tracking and download result handling for Koil update flows.",
+            "Added typed Koil update toasts so update messages can use the correct toast category and style.",
+            "Added update type structure so unfinished beta builds can be listed with their own branch and jar file."
           ]
         },
         {
-          "title": "unfinished.4",
+          "title": "Config and design editing",
           "items": [
-            "Added content screens for mods, resourcepacks, datapacks, and so on",
-            "Finished the mod menu",
-            "Finished the design of the singleplayer and multiplayer screens",
-            "Redesigned the Pack screen to match the mod menu and content screens design",
-            "REMOVED KORO FROM KOIL",
-            "Added the New Automation system",
-            "Added the New Koil Intelligence Layer"
+            "Added the Koil config screen with grouped entries, color groups, sliders, ranges, paths, registry IDs, keybind entries, tri-state options, size entries, sound config entries, and section inspector data.",
+            "Added mod config discovery and config document handling for detected mod config files.",
+            "Expanded uiColorVal and DesignLoader so more Koil UI colors and design values can come from config/design data."
           ]
         },
         {
-          "title": "unfinished.3",
+          "title": "Content browser and Modrinth screens",
           "items": [
-            "Patching unfinished screens from 0.70.25"
+            "Added a shared foundation with search, view modes, sort modes, group modes, filter menus, and install choices.",
+            "Added a reusable content browser list entries, group headers, item rows, preview chips, tooltip regions, preview sections, preview render state, and remote icon resolving.",
+            "Updated mod, resource pack, data pack, and pack screen code to use the newer content preview and screen design systems.",
+            "Expanded the multiplayer screen with Modrinth server search/list support and server-compatible content browsing."
           ]
         },
         {
-          "title": "unfinished.2",
+          "title": "F3 redesign and debug tools",
           "items": [
-            "Made the new UI redesign toggleable.",
-            "Made it so you can disable certain toasts.",
-            "Began separating the project code from the API. Progress: 3/5."
+            "Added the redesigned Koil F3 overlay renderer with graph cards, chart models, pie slices, debug panels, target inspection, and projected points.",
+            "Added F3 data APIs for snapshots, sections, target snapshots, target types, layout state, refresh speed, modes, reports, and command bridge support.",
+            "Added visual debug systems for ghost terrain fields, terrain columns, chunk-style debug rendering, behavior dots, axis projection, graph signals, and jump preview state.",
+            "Added debug accessors and input/render mixins for F3 mouse interaction, debug HUD access, in-game HUD access, entity rendering, and hiding/replacing debug overlay behavior."
           ]
         },
         {
-          "title": "unfinished.1",
+          "title": "Performance optimizer",
           "items": [
-            "Changed background music and theme systems so new themes and backgrounds can be added without requiring a new mod version.",
-            "Added an announcement system for showing Koil announcements.",
-            "Fixed several UI bugs across the project."
+            "Added the Koil Performance Optimizer screen with chart kinds, diagnostics panes, recommendation hitboxes, and session state.",
+            "Added performance APIs for hardware scanning, hardware class advice, live monitoring, benchmark runs, optimization testing, reports, runtime context, recommendations, and performance snapshots.",
+            "Added performance profile and provider systems for vanilla settings, JSON configs, targeted JSON rules, properties files, and shaderpack config support.",
+            "Added /optimize and /stats support through Koil performance command bridge classes."
+          ]
+        },
+        {
+          "title": "Automation and KTL system",
+          "items": [
+            "Added the new automation router, interpreter, mode controller, request model, reporter, runtime status, settings, proof suite, presence bridge, and remote run bridge systems.",
+            "Added the KTL compiler service with template metadata, compiled steps, grammar patterns, lexicon entries, semantic operation definitions, resolved targets, session memory, coordinate parsing, and direct template invocation support.",
+            "Added the automation runtime executor with active execution state, movement plans, movement progress, movement safety, candidate safety, held inputs, cached entity refs, block tracing, and runtime primitive execution support.",
+            "Added automation feedback and improvement services with feedback nodes, failure type registries, pending flows, improvement groups, and improvement summaries."
+          ]
+        },
+        {
+          "title": "Console and CLI interface",
+          "items": [
+            "Added the Koil Console screen and scroll metrics.",
+            "Added console APIs for channels, levels, records, repositories, formatting, styled lines, styled spans, themes, command history, request bridging, and log display reads.",
+            "Added console input suggestions and registry-backed suggestion presentation.",
+            "Added automation CLI rendering with snapshots, rows, view models, HUD blocks, state colors, chat HUD actions, and a canvas renderer for automation nodes, links, frames, hover cues, terminal state, and brain stats."
+          ]
+        },
+        {
+          "title": "File editor, package tools, and media previews",
+          "items": [
+            "Expanded the Koil file explorer and editor with editor document state, cursor positions, selection ranges, improved syntax color types, and larger editor/file explorer render systems.",
+            "Added a Koil package builder screen with tree row rendering.",
+            "Expanded Koil package manager handling for package operations and file workflows.",
+            "Added media preview support for managed frame textures, image decoding, image texture caching, GIF playback, PCM audio playback, FFmpeg video probing/playback, video thumbnails, poster cache, unsupported video fallback, and visual playback state."
+          ]
+        },
+        {
+          "title": "Mixin and access changes",
+          "items": [
+            "Added new mixins for in-game HUD rendering, text field widgets, tab navigation, Realms main screen, edit game rules screen, experiments screen, world entry access, F3 mouse input, and entity rendering.",
+            "Removed old Analiea, Ignite, and other client player interaction, client play network handler, game renderer, and Ignite render mixins from the active mixin list and Koil.",
+            "Expanded the access widener with additional Minecraft client and living entity access needed by the new systems.",
+            "Updated the refmap to match the new redesigned UI, automation, console, debug, and F3 mixin set."
           ]
         }
       ]
@@ -154,7 +194,8 @@
           "title": "File and app systems",
           "items": [
             "Filing System: new file management system with multiple file support and an integrated File Explorer screen.",
-            "Custom JSON/Java Apps: support for creating and implementing custom utility or casual apps."          ]
+            "Custom JSON/Java Apps: support for creating and implementing custom utility or casual apps."
+          ]
         },
         {
           "title": "UI and manager screens",
@@ -296,7 +337,7 @@
     }
   ],
   "changeLog": "0.70.25 public platform update.",
-  "changeLogBeta": "0.70.26 unfinished beta update.",
+  "changeLogBeta": "0.70.26 unfinished beta update: UI redesign, F3/debug tools, performance optimizer, automation/KTL, console, update system, content browser, config/design expansion, and legacy bundled-system cleanup.",
   "changeLogFull": "Structured public changelog entries are available in releases.",
   "changeLogFullBeta": "Structured beta and public changelog entries are available in releases."
 }
