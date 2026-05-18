@@ -226,7 +226,7 @@
       ]
     },
     {
-      "name": "- Ruin Tracks Age -",
+      "name": "------=== Ruined Tracks ===------",
       "version": "0.70.?",
       "branch": "public",
       "githubPath": "public",
@@ -249,8 +249,8 @@
       ]
     },
     {
-      "name": "Koil 0.70.0",
-      "version": "0.70.0",
+      "name": "Koil 0.70.*",
+      "version": "0.70.*",
       "branch": "public",
       "githubPath": "public",
       "percentages": {
@@ -259,7 +259,7 @@
       "files": [
         {
           "label": ".jar",
-          "fileName": "koil-0.70.0.jar"
+          "fileName": "koil-0.70.*.jar"
         }
       ],
       "sections": [
