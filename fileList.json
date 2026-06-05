@@ -491,11 +491,6 @@
     },
     {
         "path": "sys/design/default/images",
-        "name": "koil_mod_menu.png",
-        "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/koil_mod_menu.png"
-    },
-    {
-        "path": "sys/design/default/images",
         "name": "play.png",
         "url": "https://raw.githubusercontent.com/SpiritXIV/koil-online-data/main/content/sys/design/images/play.png"
     },
