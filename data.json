@@ -57,7 +57,7 @@
   "releases": [
     {
       "name": "Koil 0.70.26 Unfinished Update",
-      "version": "0.70.26-unfinished.6",
+      "version": "0.70.26-unfinished.7",
       "branch": "unfinished",
       "githubPath": ".unfinished",
       "date": "2026-05-07",
@@ -71,7 +71,7 @@
       "files": [
         {
           "label": "Unfinished build",
-          "fileName": "koil-0.70.26-unfinished.6.jar"
+          "fileName": "koil-0.70.26-unfinished.7.jar"
         }
       ],
       "sections": [
@@ -105,7 +105,7 @@
           "items": [
             "Added a shared foundation with search, view modes, sort modes, group modes, filter menus, and install choices.",
             "Added a reusable content browser list entries, group headers, item rows, preview chips, tooltip regions, preview sections, preview render state, and remote icon resolving.",
-            "Updated mod, resource pack, data pack, and pack screen code to use the newer content preview and screen design systems.",
+            "Updated mod, resource pack, data pack, shaders, and pack screen code to use the newer content preview and screen design systems.",
             "Expanded the multiplayer screen with Modrinth server search/list support and server-compatible content browsing."
           ]
         },
@@ -161,6 +161,13 @@
             "Removed old Analiea, Ignite, and other client player interaction, client play network handler, game renderer, and Ignite render mixins from the active mixin list and Koil.",
             "Expanded the access widener with additional Minecraft client and living entity access needed by the new systems.",
             "Updated the refmap to match the new redesigned UI, automation, console, debug, and F3 mixin set."
+          ]
+        },
+        {
+          "title": "Statistic Screen/Market",
+          "items": [
+            "Added new market system based off in game and global player stats to give you a very accurrate block market in your minecraft world.",
+            "Revamped the rest of the vanilla stats screen to fit koils redesign"
           ]
         }
       ]
