@@ -57,21 +57,21 @@
   "releases": [
     {
       "name": "Koil 0.70.26 Unfinished Update",
-      "version": "0.70.26-unfinished.7",
+      "version": "0.70.26-unfinished.8",
       "branch": "unfinished",
       "githubPath": ".unfinished",
       "date": "2026-05-07",
       "percentages": {
-        "ui": 36,
-        "debug": 20,
-        "console": 24,
-        "japi": 17,
-        "other": 3
+        "ui": 42,
+        "debug": 17,
+        "console": 14,
+        "japi": 20,
+        "other": 7
       },
       "files": [
         {
           "label": "Unfinished build",
-          "fileName": "koil-0.70.26-unfinished.7.jar"
+          "fileName": "koil-0.70.26-unfinished.8.jar"
         }
       ],
       "sections": [
@@ -80,16 +80,38 @@
           "items": [
             "Removed Analiea entrypoints and classes from Koil.",
             "Removed Ignite entrypoints and classes from Koil.",
-            "Removed Koro from Koil."
+            "Removed Koro from Koil.",
+            "Removed old bundled project mixins from the active Koil mixin list so Koil stays focused on its own systems."
+          ]
+        },
+        {
+          "title": "First launch, branch, and bootstrap systems",
+          "items": [
+            "Added the first launch terms screen so Koil can explain the files it writes, let users accept or deny, and ask whether the redesigned UI should be enabled.",
+            "Added the first launch download screen with progress tracking, file tree rendering, event logs, skipped file counts, error counts, and a continue button after bootstrap work finishes.",
+            "Changed startup downloads so external bootstrap files are deferred until first launch terms are accepted.",
+            "Added bundled default design fallback support so Koil can still create a default design.json if the downloaded design files are missing.",
+            "Added public, unfinished, and frequent beta branch handling with runtime branch detection and beta branch config support."
           ]
         },
         {
           "title": "Improved the Update system",
           "items": [
             "Improved the Koil update screen and structured update data model for branches, releases, files, sections, and update types.",
-            "Added update state tracking and download result handling for Koil update flows.",
+            "Added update branch selection for Public, .unfinished, and .frequent builds when beta access is enabled.",
+            "Added update file selection, refresh handling, download state tracking, and download result handling for Koil update flows.",
             "Added typed Koil update toasts so update messages can use the correct toast category and style.",
-            "Added update type structure so unfinished beta builds can be listed with their own branch and jar file."
+            "Added update type structure so unfinished and frequent beta builds can be listed with their own branch and jar file."
+          ]
+        },
+        {
+          "title": "Koil UI chrome and vanilla screen redesign",
+          "items": [
+            "Added shared Koil screen chrome helpers for top bars, browser layouts, vanilla screen shells, popup menus, markdown tooltips, info popups, and screen action helpers.",
+            "Redesigned more vanilla screens through Koil mixins, including title, game menu, options, video, sound, controls, keybinds, language, telemetry, credits, confirm, warning, progress, disconnected, connect, and dialog style screens.",
+            "Added redesigned pack, world, multiplayer, Realms, create world, edit world, game rules, experiments, loading terrain, and splash overlay screen handling.",
+            "Added UI sound helpers so Koil screens can play soft click feedback when focus and button actions happen.",
+            "Added screen chrome late rendering support so custom overlays and popups can render above redesigned screens."
           ]
         },
         {
@@ -97,16 +119,61 @@
           "items": [
             "Added the Koil config screen with grouped entries, color groups, sliders, ranges, paths, registry IDs, keybind entries, tri-state options, size entries, sound config entries, and section inspector data.",
             "Added mod config discovery and config document handling for detected mod config files.",
-            "Expanded uiColorVal and DesignLoader so more Koil UI colors and design values can come from config/design data."
+            "Expanded uiColorVal and DesignLoader so more Koil UI colors and design values can come from config/design data.",
+            "Added uiTheme and uiDesignDirectory support so Koil can load design values from a selected theme folder instead of only one fixed design path.",
+            "Added background texture and splash loading text texture override values for design controlled screen styling."
           ]
         },
         {
-          "title": "Content browser and Modrinth screens",
+          "title": "Skin changer and skin editor",
+          "items": [
+            "Added the Koil skin changer screen with saved skin cards, selected skin preview, account skin restore, local apply support, and vanilla skin part buttons.",
+            "Added the Koil skin editor screen with model preview, editable skin pixels, tool buttons, right side tool panel, palette handling, and color picker popup work.",
+            "Added skin library storage with saved entries, active skin tracking, rename/edit/delete flows, local texture caching, and saved editor palette data.",
+            "Added online skin fetching from Mojang profile data and best-effort NameMC history data so player names can be used to pull skins into the library.",
+            "Added skin texture helpers for reading, writing, registering, copying, alpha handling, lightening, and darkening skin textures.",
+            "Added a player skin mixin so Koil's active local skin can render on the client without replacing the user's account skin permanently."
+          ]
+        },
+        {
+          "title": "Content browser and Downloader screens",
           "items": [
             "Added a shared foundation with search, view modes, sort modes, group modes, filter menus, and install choices.",
-            "Added a reusable content browser list entries, group headers, item rows, preview chips, tooltip regions, preview sections, preview render state, and remote icon resolving.",
-            "Updated mod, resource pack, data pack, shaders, and pack screen code to use the newer content preview and screen design systems.",
-            "Expanded the multiplayer screen with Modrinth server search/list support and server-compatible content browsing."
+            "Added reusable content browser list entries, group headers, item rows, preview chips, tooltip regions, preview sections, preview render state, and remote icon resolving.",
+            "Updated mod, resource pack, data pack, shader, and pack screen code to use the newer content preview and screen design systems.",
+            "Added provider/source preview switching so local pack data and remote Modrinth data can be shown in the same content panel.",
+            "Added content preview hover regions, chips, tags, update indicators, remote metadata rows, and better local file insight rendering."
+          ]
+        },
+        {
+          "title": "Shaderpack manager",
+          "items": [
+            "Added the redesigned shaderpack manager screen with search, import shader, download shaders, website, enable/disable, select, delete, reload, open folder, and cancel actions.",
+            "Changed the shaderpack content panel to match the resource pack style with icon, title, pack id, state chip, local metadata, remote metadata, and preview sections.",
+            "Added shaderpack pack.mcmeta and pack.png inspection for folders and zip files.",
+            "Added Modrinth metadata lookup for shaderpacks with remote categories, downloads, followers, versions, project links, and hover tooltips.",
+            "Changed shaderpack list/status text to focus on Enabled, Disabled, or Selected state and the pack id instead of extra installed/local source labels.",
+            "Added shaderpack folder open popup handling and moved footer actions into the newer browser footer layout."
+          ]
+        },
+        {
+          "title": "Resource pack, data pack, mod, and content options screens",
+          "items": [
+            "Updated resource pack, data pack, and mod manager screens to share more browser layout, preview, installed filter, sort, search, popup, and open folder behavior.",
+            "Added the content options screen so Resource Packs, Mods, Data Packs, and Shaders can be opened from one redesigned content hub.",
+            "Added world data pack helper handling for singleplayer datapacks, local datapack folders, and remote server datapack list requests.",
+            "Added pack action popups and folder open popups for pack screens so file actions can stay consistent across content managers.",
+            "Added resource/data pack preview tags, status chips, local metadata rows, remote provider data, and update available indicators."
+          ]
+        },
+        {
+          "title": "Multiplayer, world, and local world handling",
+          "items": [
+            "Expanded the multiplayer screen with Modrinth server search/list support and server-compatible content browsing.",
+            "Added local world discovery for current instance saves, launcher instance saves, default Minecraft saves, CurseForge, PrismLauncher, MultiMC, ATLauncher, GDLauncher, Technic, and Modrinth App profiles.",
+            "Added local world inspection for level.dat names, last played data, data versions, game modes, hardcore state, commands state, icons, and Minecraft version compatibility.",
+            "Added world mod comparison data so discovered worlds can show missing, extra, and shared source mod information.",
+            "Added discovered world list rendering with world icons, compatibility labels, folder names, and source instance data."
           ]
         },
         {
@@ -115,7 +182,8 @@
             "Added the redesigned Koil F3 overlay renderer with graph cards, chart models, pie slices, debug panels, target inspection, and projected points.",
             "Added F3 data APIs for snapshots, sections, target snapshots, target types, layout state, refresh speed, modes, reports, and command bridge support.",
             "Added visual debug systems for ghost terrain fields, terrain columns, chunk-style debug rendering, behavior dots, axis projection, graph signals, and jump preview state.",
-            "Added debug accessors and input/render mixins for F3 mouse interaction, debug HUD access, in-game HUD access, entity rendering, and hiding/replacing debug overlay behavior."
+            "Added debug accessors and input/render mixins for F3 mouse interaction, debug HUD access, in-game HUD access, entity rendering, and hiding/replacing debug overlay behavior.",
+            "Added config support for keeping the vanilla F3 design when users do not want Koil's redesigned F3 overlay."
           ]
         },
         {
@@ -124,7 +192,30 @@
             "Added the Koil Performance Optimizer screen with chart kinds, diagnostics panes, recommendation hitboxes, and session state.",
             "Added performance APIs for hardware scanning, hardware class advice, live monitoring, benchmark runs, optimization testing, reports, runtime context, recommendations, and performance snapshots.",
             "Added performance profile and provider systems for vanilla settings, JSON configs, targeted JSON rules, properties files, and shaderpack config support.",
+            "Added live performance monitoring and optimization test ticking during client updates.",
             "Added /optimize and /stats support through Koil performance command bridge classes."
+          ]
+        },
+        {
+          "title": "Statistic Screen/Market",
+          "items": [
+            "Added new market system based off in game and global player stats to give you a very accurrate block, item, entity, and activity market in your minecraft world.",
+            "Revamped the rest of the vanilla stats screen to fit koils redesign.",
+            "Added global stats pages for overview, general stats, items, mobs, and market data with search, row caching, scroll handling, hover tooltips, and compact metric cards.",
+            "Added head markets, sub markets, raw markets, and dev markets so combined category markets, grouped markets, exact watched signals, and unprocessed fallback signals can be shown separately.",
+            "Added market charts with filtered Minecraft day ranges, moving averages, volume bars, OHLC candle data, hover nodes, candle cause tooltips, and data ribbons.",
+            "Changed the stock graph filter buttons into a dropdown next to the search bar with Today, 3 Days, 7 Days, and All range options."
+          ]
+        },
+        {
+          "title": "Market commands, HUD popup, and Momens currency",
+          "items": [
+            "Added /market create, remove, list, sync, quote, catch, catch off, catch update, compare, compare-id, base, currency, source, compact, reserves, config, and reload-config command flows.",
+            "Added market command suggestions for market names, item ids, source expressions, and readable item/block query names.",
+            "Added the market catch popup HUD with quote, compare, watch, hide, baseline, and update handling.",
+            "Changed catch update output to show compact movement deltas for Momens value, demand, supply, scarcity, trend, and graph movement.",
+            "Added market value quotes with demand, supply, scarcity, trend, reserve basket, one Momen exchange lines, confidence, and authoritative/estimated source labels.",
+            "Added physical Momens currency support with inventory source conversion, compacting, source value lookup, and currency notes."
           ]
         },
         {
@@ -133,7 +224,8 @@
             "Added the new automation router, interpreter, mode controller, request model, reporter, runtime status, settings, proof suite, presence bridge, and remote run bridge systems.",
             "Added the KTL compiler service with template metadata, compiled steps, grammar patterns, lexicon entries, semantic operation definitions, resolved targets, session memory, coordinate parsing, and direct template invocation support.",
             "Added the automation runtime executor with active execution state, movement plans, movement progress, movement safety, candidate safety, held inputs, cached entity refs, block tracing, and runtime primitive execution support.",
-            "Added automation feedback and improvement services with feedback nodes, failure type registries, pending flows, improvement groups, and improvement summaries."
+            "Added automation feedback and improvement services with feedback nodes, failure type registries, pending flows, improvement groups, and improvement summaries.",
+            "Added automation client commands, server remote run commands, presence packets, remote run packets, and chat HUD rendering support."
           ]
         },
         {
@@ -142,32 +234,49 @@
             "Added the Koil Console screen and scroll metrics.",
             "Added console APIs for channels, levels, records, repositories, formatting, styled lines, styled spans, themes, command history, request bridging, and log display reads.",
             "Added console input suggestions and registry-backed suggestion presentation.",
-            "Added automation CLI rendering with snapshots, rows, view models, HUD blocks, state colors, chat HUD actions, and a canvas renderer for automation nodes, links, frames, hover cues, terminal state, and brain stats."
+            "Added automation CLI rendering with snapshots, rows, view models, HUD blocks, state colors, chat HUD actions, and a canvas renderer for automation nodes, links, frames, hover cues, terminal state, and brain stats.",
+            "Added external console window helpers and desktop UI sound support for Koil utility windows."
           ]
         },
         {
           "title": "File editor, package tools, and media previews",
           "items": [
             "Expanded the Koil file explorer and editor with editor document state, cursor positions, selection ranges, improved syntax color types, and larger editor/file explorer render systems.",
+            "Added more syntax color support for Java, C, C++, C#, config, JSON, JSON5, properties, TOML, YAML, shader, Python, JavaScript, TypeScript, Markdown, XML, and other common file types.",
             "Added a Koil package builder screen with tree row rendering.",
-            "Expanded Koil package manager handling for package operations and file workflows.",
+            "Expanded Koil package manager handling for package operations, package identity, package install previews, file workflows, and package detection ticking.",
             "Added media preview support for managed frame textures, image decoding, image texture caching, GIF playback, PCM audio playback, FFmpeg video probing/playback, video thumbnails, poster cache, unsupported video fallback, and visual playback state."
+          ]
+        },
+        {
+          "title": "File, web, and local asset systems",
+          "items": [
+            "Added safer file sanitizing, UUID validation, package identity handling, and local mod jar inspection helpers.",
+            "Added persistent external image loading for icons, world icons, server icons, first launch icons, and package tree icons.",
+            "Added download progress tracking so web file downloads can report target files, status, skipped files, progress, and errors back into Koil screens.",
+            "Added JSON5, TOML, YAML, and properties file handlers so Koil can inspect and edit more config formats.",
+            "Added world icon extraction, server icon extraction, audio manager helpers, and simple text wrapper utilities."
           ]
         },
         {
           "title": "Mixin and access changes",
           "items": [
-            "Added new mixins for in-game HUD rendering, text field widgets, tab navigation, Realms main screen, edit game rules screen, experiments screen, world entry access, F3 mouse input, and entity rendering.",
+            "Added new mixins for in-game HUD rendering, chat HUD, chat screen, text field widgets, tab navigation, Realms main screen, edit game rules screen, experiments screen, world entry access, F3 mouse input, and entity rendering.",
+            "Added redesigned screen mixins for multiplayer, servers, LAN entries, loading display, add server, direct connect, pack screens, world screens, option screens, telemetry, title, splash, progress, warning, confirm, and disconnected screens.",
+            "Added server stat mixins for furnace activity, composter activity, screen handler transfers, and other stat-backed market activity sources.",
             "Removed old Analiea, Ignite, and other client player interaction, client play network handler, game renderer, and Ignite render mixins from the active mixin list and Koil.",
             "Expanded the access widener with additional Minecraft client and living entity access needed by the new systems.",
-            "Updated the refmap to match the new redesigned UI, automation, console, debug, and F3 mixin set."
+            "Updated the refmap to match the new redesigned UI, automation, console, debug, stats, market, skin, shader, and F3 mixin set."
           ]
         },
         {
-          "title": "Statistic Screen/Market",
+          "title": "Startup, logging, and cleanup",
           "items": [
-            "Added new market system based off in game and global player stats to give you a very accurrate block market in your minecraft world.",
-            "Revamped the rest of the vanilla stats screen to fit koils redesign"
+            "Added main and package sub-loggers with startup, package, and shutdown logging.",
+            "Added optional Koil log window opening on startup through config.",
+            "Added shutdown hook cleanup for Koil sub-loggers.",
+            "Added bootstrap cleanup helpers for deleting key.json and catcher.json when Koil needs to rebuild core bootstrap files.",
+            "Updated default config values for beta testing, branch selection, redesigned UI, theme paths, music, precise stats, vanilla F3, and menu panorama behavior."
           ]
         }
       ]
@@ -344,7 +453,7 @@
     }
   ],
   "changeLog": "0.70.25 public platform update.",
-  "changeLogBeta": "0.70.26 unfinished beta update: UI redesign, F3/debug tools, performance optimizer, automation/KTL, console, update system, content browser, config/design expansion, and legacy bundled-system cleanup.",
+  "changeLogBeta": "0.70.26 unfinished beta update: UI redesign, first launch/bootstrap, skin changer/editor, shader manager, stats market, market HUD commands, F3/debug tools, performance optimizer, automation/KTL, console, content browser, config/design expansion, package/media tools, and legacy bundled-system cleanup.",
   "changeLogFull": "Structured public changelog entries are available in releases.",
   "changeLogFullBeta": "Structured beta and public changelog entries are available in releases."
 }
