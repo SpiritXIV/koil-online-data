@@ -61,7 +61,7 @@
   "tiers": [
     {
       "id": "copper_membership",
-      "name": "Koil Supporter - Copper",
+      "name": "Copper",
       "style": "copper",
       "amount": 2.59,
       "description": "Support the development of Koil by funding a small amount per month!",
