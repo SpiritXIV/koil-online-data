@@ -57,7 +57,7 @@
   "releases": [
     {
       "name": "Koil 0.70.26 Unfinished Update",
-      "version": "0.70.26-unfinished.8",
+      "version": "0.70.26-unfinished.9",
       "branch": "unfinished",
       "githubPath": ".unfinished",
       "date": "2026-05-07",
@@ -71,7 +71,7 @@
       "files": [
         {
           "label": "Unfinished build",
-          "fileName": "koil-0.70.26-unfinished.8.jar"
+          "fileName": "koil-0.70.26-unfinished.9.jar"
         }
       ],
       "sections": [
